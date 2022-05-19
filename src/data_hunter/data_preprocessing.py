@@ -5,7 +5,7 @@ import os
 import re
 
 import pandas as pd
-# from tqdm import tqdm
+from tqdm import tqdm
 
 
 LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
@@ -17,7 +17,6 @@ logger = logging.getLogger(__name__)
 STORIES_PATH = './scraped_data/stories'
 SUMMARIES_PATH = './scraped_data/summaries'
 ALIGNMENTS_PATH = './scraped_data/manual_alignments'
-
 PREPROCESSED_DATA_PATH = './preprocessed_data'
 
 
@@ -154,7 +153,7 @@ def get_alignments_df() -> pd.DataFrame:
                 list_rows.append(row)
                 cont_p += 1
 
-            logger.debug(f'Finished processing the title: {title}')
+        logger.debug(f'Finished processing the title: {title}')
 
     align = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
     align = align.drop(columns='paragraph')
@@ -166,7 +165,7 @@ def get_alignments_df() -> pd.DataFrame:
     return align
 
 
-def get_dataframes():
+def get_dataframes() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     stories_df = get_stories_df()
     stories_df.dropna(inplace=True)
     stories_path = os.path.join(PREPROCESSED_DATA_PATH, 'stories.csv')
@@ -185,6 +184,76 @@ def get_dataframes():
     return stories_df, summaries_df, alignments_df
 
 
+def merge_dataframes(stories_df, summaries_df, alignments_df):
+    all_df = alignments_df.copy()
+
+    # -- Add the summaries --
+    all_df["summary_text"] = ""
+
+    # Iterate over all DataFrame rows.
+    for i in range(len(all_df)):
+
+        # Save the title, chapter number and paragraph number for each row.
+        t = all_df['title'].iloc[i]
+        num_chapter = str(all_df['chapter'].iloc[i])
+        num_p_summ = str(all_df['split1'].iloc[i])
+
+        if bool(re.search('\d', num_p_summ)):
+            num_p_summ = re.sub(':', '', num_p_summ)
+
+            # Fill the new column with the correspondent summaries having into
+            # account the number of chapter and the number of paragraph.
+            text = summaries_df[
+                (summaries_df.title == t) &
+                (summaries_df.chapter == int(num_chapter)) &
+                (summaries_df.paragraph == int(num_p_summ))
+            ].text.values
+
+            all_df['summary_text'].iloc[i] = '\n\n'.join(list(text))
+
+    # -- Add the stories --
+    all_df["story_text"] = ""
+    all_df['split2'] = all_df['split2'].astype(str)
+
+    # Iterate over DataFrame rows to add the story text.
+    for i in tqdm(range(len(all_df))):
+        # Save the title, chapter number and paragraph number for each row.
+        t = all_df['title'].iloc[i]
+        num_chapter = all_df['chapter'].iloc[i]
+        # List to save all the paragraphs that correspond to a summary.
+        l = []
+
+        # 1 - Search each value, split by separator (comma) and iterate.
+        values = all_df.iloc[i].split2
+
+        if bool(re.search('\d', values)):
+            split = values.split(',')
+            for s in split:
+                # num_paragraph_stories
+                num_p_st = int(s.strip())
+                text = stories_df[
+                    (stories_df.title == t) &
+                    (stories_df.chapter == num_chapter) &
+                    (stories_df.paragraph == num_p_st)
+                ].text.values
+
+                l.append("\n\n".join(text))
+
+            # 2 - Save the text story.
+            all_df['story_text'].iloc[i] = "\n\n\n\n".join(l)
+
+    return all_df
+
+
+def get_merged_df():
+    stories_df, summaries_df, alignments_df = get_dataframes()
+    data_df = merge_dataframes(stories_df, summaries_df, alignments_df)
+    data_df.dropna(inplace=True)
+    data_path = os.path.join(PREPROCESSED_DATA_PATH, 'data.csv')
+    data_df.to_csv(data_path, index=False)
+
+
 if __name__ == '__main__':
     setup_environment()
-    stories, summaries, alignments = get_dataframes()
+    path = os.path.join(PREPROCESSED_DATA_PATH, 'data.csv')
+    df = pd.read_csv(path)
