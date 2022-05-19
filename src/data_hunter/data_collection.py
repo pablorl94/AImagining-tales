@@ -21,10 +21,12 @@ ALIGNMENTS_URL = 'http://www.cs.toronto.edu/~atef/manual_alignments.zip'
 
 
 def setup_environment():
+    """Set up the environment."""
     os.makedirs(SCRAPED_DATA_PATH, exist_ok=True)
 
 
 def get_texts():
+    """Get the texts."""
     logger.info(f"Collecting texts from '{TEXTS_URL}'.")
     response = requests.get(TEXTS_URL)
 
@@ -35,11 +37,13 @@ def get_texts():
 
 
 def get_summaries():
+    """Get the summaries."""
     logger.info(f"Collecting summaries from '{SHMOOP_URL}'.")
     scrape_summaries()
 
 
 def get_alignments():
+    """Get the manual alignments."""
     logger.info(f"Collecting texts from '{ALIGNMENTS_URL}'.")
     response = requests.get(ALIGNMENTS_URL)
 
@@ -50,6 +54,7 @@ def get_alignments():
 
 
 def get_all():
+    """Get the texts, summaries and manual alignments."""
     get_texts()
     get_summaries()
     get_alignments()
