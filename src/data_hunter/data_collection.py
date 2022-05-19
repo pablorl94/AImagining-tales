@@ -6,6 +6,8 @@ from zipfile import ZipFile
 
 import requests
 
+from collect_summaries import scrape_summaries, SHMOOP_URL
+
 
 LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
 LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
@@ -22,7 +24,7 @@ def setup_environment():
     os.makedirs(SCRAPED_DATA_PATH, exist_ok=True)
 
 
-def collect_texts():
+def get_texts():
     logger.info(f"Collecting texts from '{TEXTS_URL}'.")
     response = requests.get(TEXTS_URL)
 
@@ -32,29 +34,12 @@ def collect_texts():
     logger.info("Decompression finished successfully.")
 
 
-def clean_texts():
-    pass
-
-
-def get_texts():
-    collect_texts()
-    clean_texts()
-
-
-def collect_summaries():
-    pass
-
-
-def clean_summaries():
-    pass
-
-
 def get_summaries():
-    collect_summaries()
-    clean_summaries()
+    logger.info(f"Collecting summaries from '{SHMOOP_URL}'.")
+    scrape_summaries()
 
 
-def collect_alignments():
+def get_alignments():
     logger.info(f"Collecting texts from '{ALIGNMENTS_URL}'.")
     response = requests.get(ALIGNMENTS_URL)
 
@@ -62,15 +47,6 @@ def collect_alignments():
     files = ZipFile(BytesIO(response.content))
     files.extractall(SCRAPED_DATA_PATH)
     logger.info("Decompression finished successfully.")
-
-
-def clean_alignments():
-    pass
-
-
-def get_alignments():
-    collect_alignments()
-    clean_alignments()
 
 
 def get_all():

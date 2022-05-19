@@ -1,2 +1,6 @@
 # Some settings files from PyCharm IDE.
 .idea/
+__pycache__
+
+# The reference repository
+shmoop-corpus
