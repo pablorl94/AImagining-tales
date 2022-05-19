@@ -1,0 +1,210 @@
+<ACTION>Enter Helicanus, to him two Sailors, one from theTyrian ship and one from Mytilene.</ACTION> 
+
+TYRIAN SAILOR ,  <ACTION>(to Sailor from Mytilene)</ACTION> Where is Lord Helicanus? He can resolve you. O, here he is.— Sir, there is a barge put off from Mytilene, And in it is Lysimachus, the Governor, Who craves to come aboard. What is your will? 
+
+HELICANUS That he have his.	Sailor from Mytilene exits. Call up some gentlemen. 
+
+TYRIAN SAILOR  Ho, gentlemen, my lord calls. 
+
+<ACTION>Enter two or three Gentlemen.</ACTION> 
+
+GENTLEMAN Doth your Lordship call? 
+
+HELICANUS Gentlemen,	 There is some of worth would come aboard. I pray, greet him fairly. 
+
+<ACTION>Enter Lysimachus, with Lords and Sailor from Mytilene.</ACTION> 
+
+SAILOR FROM MYTILENE ,  <ACTION>to Lysimachus </ACTION> Sir, This is the man that can, in aught you would, Resolve you.	 
+
+LYSIMACHUS ,  <ACTION>to Helicanus</ACTION> Hail, reverend sir. The gods preserve you. 
+
+HELICANUS  And you, to outlive the age I am, And die as I would do. 
+
+LYSIMACHUS  You wish me well. Being on shore, honoring of Neptune’s triumphs,	 Seeing this goodly vessel ride before us, I made to it to know of whence you are. 
+
+HELICANUS First, what is your place? 
+
+LYSIMACHUS I am the governor of this place you lie before. 
+
+HELICANUS Sir, Our vessel is of Tyre, in it the King, A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief. 
+
+LYSIMACHUS Upon what ground is his distemperature?	 
+
+HELICANUS ’Twould be too tedious to repeat, But the main grief springs from the loss Of a belovèd daughter and a wife. 
+
+LYSIMACHUS May we not see him? 
+
+HELICANUS You may <ACTION>,	</ACTION> But bootless is your sight. He will not speak To any. 
+
+LYSIMACHUS Yet let me obtain my wish. 
+
+HELICANUS Behold him.  <ACTION>Pericles is revealed. </ACTION> This was a goodly person,	 Till the disaster that one mortal night Drove him to this. 
+
+LYSIMACHUS Sir king, all hail! The gods preserve you. Hail, Royal sir! 
+
+HELICANUS It is in vain; he will not speak to you.	 
+
+LORD Sir, we have a maid in Mytilene, I durst wager would win some words of him. 
+
+LYSIMACHUS  ’Tis well bethought. She, questionless, with her sweet harmony And other chosen attractions, would allure	 And make a batt’ry through his defended ports, Which now are midway stopped. She is all happy as the fairest of all, And, with her fellow maid, is now upon The leafy shelter that abuts against The island’s side. 
+
+HELICANUS Sure, all effectless; yet nothing we’ll omit That bears recovery’s name. Lysimachus signals to a Lord, who exits. But since your kindness We have stretched thus far, let us beseech you	 That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness. 
+
+LYSIMACHUS O, sir, a courtesy Which, if we should deny, the most just God For every graft would send a caterpillar, And so inflict our province. Yet once more Let me entreat to know at large the cause Of your king’s sorrow. 
+
+HELICANUS Sit, sir, I will recount it to you. But see,	 I am prevented. 
+
+<ACTION>Enter Lord with Marina and her companion.</ACTION> 
+
+LYSIMACHUS O, here’s the lady that I sent for.— Welcome, fair one.—Is ’t not a goodly presence? 
+
+HELICANUS  She’s a gallant lady. 
+
+LYSIMACHUS She’s such a one that, were I well assured	 Came of a gentle kind and noble stock, I’d wish no better choice, and think me rarely wed.— Fair one, all goodness that consists in beauty: Expect even here, where is a kingly patient, If that thy prosperous and artificial feat	 Can draw him but to answer thee in aught, Thy sacred physic shall receive such pay As thy desires can wish. 
+
+MARINA Sir, I will use My utmost skill in his recovery, provided	 That none but I and my companion maid Be suffered to come near him. 
+
+LYSIMACHUS  Come, let us Leave her, and the gods make her prosperous. 
+
+<ACTION>Lysimachus, Helicanus and others move aside.</ACTION> 
+
+<ACTION>MARINA sings</ACTION> 
+
+<ACTION>The Song.</ACTION> 
+
+LYSIMACHUS , coming forward Marked he your music?	 
+
+MARINA No, nor looked on us. 
+
+LYSIMACHUS ,  <ACTION>moving aside</ACTION> See, she will speak to him. 
+
+MARINA , <ACTION> to Pericles</ACTION> Hail, sir! My lord, lend ear. 
+
+PERICLES Hum, ha!	 <ACTION>He pushes her away.</ACTION> 
+
+MARINA  I am a maid, my lord,	 That ne’er before invited eyes, but have Been gazed on like a comet. She speaks, My lord, that may be hath endured a grief Might equal yours, if both were justly weighed. Though wayward Fortune did malign my state,	 My derivation was from ancestors Who stood equivalent with mighty kings. But time hath rooted out my parentage, And to the world and awkward casualties Bound me in servitude. Aside. I will desist,	 But there is something glows upon my cheek, And whispers in mine ear “Go not till he speak.” 
+
+PERICLES My fortunes—parentage—good parentage, To equal mine! Was it not thus? What say you? 
+
+MARINA I said, my lord, if you did know my parentage,	 You would not do me violence. 
+
+PERICLES I do think so. Pray you turn your eyes upon me. You’re like something that—What countrywoman?	 Here of these shores? 
+
+MARINA  No, nor of any shores. Yet I was mortally brought forth, and am No other than I appear. 
+
+PERICLES I am great with woe, and shall deliver weeping.	 My dearest wife was like this maid, and such A one my daughter might have been: my queen’s Square brows, her stature to an inch; As wandlike straight, as silver-voiced; her eyes As jewel-like, and cased as richly; in pace	 Another Juno; who starves the ears she feeds And makes them hungry the more she gives them speech.— Where do you live? 
+
+MARINA Where I am but a stranger.	 From the deck you may discern the place. 
+
+PERICLES Where were you bred? And how achieved you these Endowments which you make more rich to owe? 
+
+MARINA If I should tell my history, it would seem Like lies disdained in the reporting.	 
+
+PERICLES Prithee, speak. Falseness cannot come from thee, for thou lookest Modest as Justice, and thou seemest a palace For the crownèd Truth to dwell in. I will believe thee And make my senses credit thy relation	 To points that seem impossible, for thou lookest Like one I loved indeed. What were thy friends? Didst thou not say, when I did push thee back— Which was when I perceived thee—that thou cam’st From good descending?	 
+
+MARINA So indeed I did. 
+
+PERICLES Report thy parentage. I think thou said’st Thou hadst been tossed from wrong to injury, And that thou thought’st thy griefs might equal mine, If both were opened.	 
+
+MARINA  Some such thing I said, And said no more but what my thoughts Did warrant me was likely. 
+
+PERICLES Tell thy story. If thine considered prove the thousand part	 Of my endurance, thou art a man, and I Have suffered like a girl. Yet thou dost look Like Patience gazing on kings’ graves and smiling Extremity out of act. What were thy friends? How lost thou them? Thy name, my most kind	 virgin, Recount, I do beseech thee. Come, sit by me. 
+
+<ACTION>She sits.</ACTION> 
+
+MARINA My name is Marina. 
+
+PERICLES O, I am mocked, And thou by some incensèd god sent hither	 To make the world to laugh at me! 
+
+MARINA  Patience, good sir, Or here I’ll cease. 
+
+PERICLES Nay, I’ll be patient. Thou little know’st how thou dost startle me	 To call thyself Marina. 
+
+MARINA  The name Was given me by one that had some power— My father, and a king. 
+
+PERICLES  How, a king’s daughter?	 And called Marina? 
+
+MARINA You said you would believe me. But not to be a troubler of your peace, I will end here. 
+
+PERICLES But are you flesh and blood?	 Have you a working pulse, and are no fairy Motion? Well, speak on. Where were you born? And wherefore called Marina? 
+
+MARINA  Called Marina For I was born at sea.	 
+
+PERICLES At sea? What mother? 
+
+MARINA My mother was the daughter of a king, Who died the minute I was born, As my good nurse Lychorida hath oft Delivered weeping.	 
+
+PERICLES O, stop there a little! <ACTION>Aside. </ACTION> This is the rarest dream that e’er dull sleep Did mock sad fools withal. This cannot be My daughter, buried.—Well, where were you bred? I’ll hear you more, to the bottom of your story,	 And never interrupt you. 
+
+MARINA You scorn. Believe me, ’twere best I did give o’er. 
+
+PERICLES I will believe you by the syllable Of what you shall deliver. Yet give me leave: How came you in these parts? Where were you bred?	 
+
+MARINA The King my father did in Tarsus leave me, Till cruel Cleon with his wicked wife Did seek to murder me; and having wooed a villain To attempt it, who, having drawn to do ’t, A crew of pirates came and rescued me, Brought me to Mytilene—But, good sir, Whither will you have me? Why do you weep? It may be you think me an impostor. No, good faith. I am the daughter to King Pericles,	 If good King Pericles be. 
+
+PERICLES Ho, Helicanus! 
+
+HELICANUS Calls my lord? 
+
+PERICLESThou art a grave and noble counselor, Most wise in general. Tell me, if thou canst,	 What this maid is, or what is like to be, That thus hath made me weep. 
+
+HELICANUS I know not; But here’s the regent, sir, of Mytilene Speaks nobly of her.	 
+
+LYSIMACHUS She never would tell Her parentage. Being demanded that, She would sit still and weep. 
+
+PERICLES O, Helicanus! Strike me, honored sir. Give me a gash, put me to present pain,	 Lest this great sea of joys rushing upon me O’erbear the shores of my mortality And drown me with their sweetness.—O, come hither, Thou that beget’st him that did thee beget, Thou that wast born at sea, buried at Tarsus,	 And found at sea again!—O, Helicanus, Down on thy knees! Thank the holy gods as loud As thunder threatens us. This is Marina.— What was thy mother’s name? Tell me but that, For truth can never be confirmed enough,	 Though doubts did ever sleep. 
+
+MARINA First, sir, I pray, what is your title? 
+
+PERICLES I am Pericles of Tyre. But tell me now My drowned queen’s name, as in the rest you said Thou hast been godlike perfect, the heir of kingdoms,	 And another life to Pericles thy father. 
+
+MARINA Is it no more to be your daughter than To say my mother’s name was Thaisa? Thaisa was my mother, who did end The minute I began.	 
+
+PERICLES Now, blessing on thee! Rise. Thou ’rt my child.— Give me fresh garments.—Mine own Helicanus, She is not dead at Tarsus, as she should Have been, by savage Cleon. She shall tell thee all, When thou shalt kneel, and justify in knowledge	 She is thy very princess. Who is this? 
+
+HELICANUS Sir, ’tis the Governor of Mytilene, Who, hearing of your melancholy state, Did come to see you. 
+
+PERICLES ,  <ACTION>to Lysimachus</ACTION> I embrace you.—	 Give me my robes.—I am wild in my beholding. They put fresh garments on him. O heavens bless my girl! But hark, what music? Tell Helicanus, my Marina, tell him o’er Point by point, for yet he seems to doubt, How sure you are my daughter.—But what music?	 
+
+HELICANUS   My lord, I hear none. 
+
+PERICLES None? The music of the spheres!—List, my Marina. 
+
+LYSIMACHUS It is not good to cross him. Give him way. 
+
+PERICLES Rarest sounds! Do you not hear?	 
+
+LYSIMACHUS Music, my lord? I hear— 
+
+PERICLES  Most heavenly music. It nips me unto list’ning, and thick slumber Hangs upon mine eyes. Let me rest.	 <ACTION>He sleeps.</ACTION> 
+
+LYSIMACHUS A pillow for his head. So, leave him all.	 
+
+<ACTION>Lysimachus and others begin to exit.</ACTION> 
+
+Well, my companion friends, if this but answer To my just belief, I’ll well remember you. 
+
+<ACTION>All but Pericles exit.</ACTION> 
+
+<ACTION>Diana descends.</ACTION> 
+
+DIANA My temple stands in Ephesus. Hie thee thither And do upon mine altar sacrifice. There, when my maiden priests are met together,	 Before the people all, Reveal how thou at sea didst lose thy wife. To mourn thy crosses, with thy daughter’s, call, And give them repetition to the life. Or perform my bidding, or thou livest in woe; Do ’t, and happy, by my silver bow. Awake, and tell thy dream.	 <ACTION>She ascends.</ACTION> 
+
+PERICLES Celestial Dian, Goddess argentine, I will obey thee.— Helicanus!	 
+
+<ACTION>Enter Helicanus, Lysimachus, Marina, andAttendants.</ACTION> 
+
+HELICANUS Sir. 
+
+PERICLES My purpose was for Tarsus, there to strike The inhospitable Cleon, but I am For other service first. Toward Ephesus Turn our blown sails. Eftsoons I’ll tell thee why.—	 Shall we refresh us, sir, upon your shore, And give you gold for such provision As our intents will need? 
+
+LYSIMACHUS  Sir, With all my heart. And when you come ashore,	 I have another suit. 
+
+PERICLES You shall prevail Were it to woo my daughter, for it seems You have been noble towards her. 
+
+LYSIMACHUS Sir, lend me your arm.	 
+
+PERICLES Come, my Marina. 
+
+<ACTION>They exit.</ACTION> 
+

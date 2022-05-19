@@ -1,0 +1,42 @@
+<ACTION>Enter Lady Capulet and Nurse.</ACTION> 
+
+LADY CAPULET Hold, take these keys, and fetch more spices, nurse. 
+
+NURSE They call for dates and quinces in the pastry. 
+
+<ACTION>Enter old Capulet.</ACTION> 
+
+CAPULET Come, stir, stir, stir! The second cock hath crowed. The curfew bell hath rung. ’Tis three o’clock.— Look to the baked meats, good Angelica.	 Spare not for cost. 
+
+NURSE  Go, you cot-quean, go, Get you to bed. Faith, you’ll be sick tomorrow For this night’s watching. 
+
+CAPULET No, not a whit. What, I have watched ere now	 All night for lesser cause, and ne’er been sick. 
+
+LADY CAPULET Ay, you have been a mouse-hunt in your time, But I will watch you from such watching now. 
+
+<ACTION>Lady Capulet and Nurse exit.</ACTION> 
+
+CAPULET A jealous hood, a jealous hood! 
+
+<ACTION>Enter three or four Servingmen with spits and logsand baskets.</ACTION> 
+
+Now fellow,	 What is there? 
+
+FIRST SERVINGMAN Things for the cook, sir, but I know not what. 
+
+CAPULET Make haste, make haste.	 <ACTION>First Servingman exits.</ACTION> Sirrah, fetch drier logs. Call Peter. He will show thee where they are.	 
+
+SECOND SERVINGMAN I have a head, sir, that will find out logs And never trouble Peter for the matter. 
+
+CAPULET Mass, and well said. A merry whoreson, ha! Thou shalt be loggerhead. 
+
+<ACTION>Second Servingman exits.</ACTION> 
+
+Good faith, ’tis day.	 The County will be here with music straight, <ACTION>Play music.</ACTION> For so he said he would. I hear him near.— Nurse!—Wife! What ho!—What, nurse, I say! 
+
+<ACTION>Enter Nurse.</ACTION> 
+
+Go waken Juliet. Go and trim her up. I’ll go and chat with Paris. Hie, make haste,	 Make haste. The bridegroom he is come already. Make haste, I say. 
+
+<ACTION>He exits.</ACTION> 
+

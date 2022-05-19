@@ -1,0 +1,86 @@
+<ACTION>A tempestuous noise of thunder and lightning heard.Enter a Shipmaster and a Boatswain.</ACTION> 
+
+MASTER Boatswain! 
+
+BOATSWAIN Here, master. What cheer? 
+
+MASTER Good, speak to th’ mariners. Fall to ’t yarely, or we run ourselves aground. Bestir, bestir! 
+
+<ACTION>He exits.</ACTION> 
+
+<ACTION>Enter Mariners.</ACTION> 
+
+BOATSWAIN Heigh, my hearts! Cheerly, cheerly, my	 hearts! Yare, yare! Take in the topsail. Tend to th’ Master’s whistle.—Blow till thou burst thy wind, if room enough! 
+
+<ACTION>Enter Alonso, Sebastian, Antonio, Ferdinand, Gonzalo,and others.</ACTION> 
+
+ALONSO Good boatswain, have care. Where’s the Master? Play the men.	 
+
+BOATSWAIN I pray now, keep below. 
+
+ANTONIO Where is the Master, boatswain? 
+
+BOATSWAIN Do you not hear him? You mar our labor. Keep your cabins. You do assist the storm. 
+
+GONZALO  Nay, good, be patient.	 
+
+BOATSWAIN When the sea is. Hence! What cares these roarers for the name of king? To cabin! Silence! Trouble us not. 
+
+GONZALO  Good, yet remember whom thou hast aboard.	 
+
+BOATSWAIN None that I more love than myself. You are a councillor; if you can command these elements to silence, and work the peace of the present, we will not hand a rope more. Use your authority. If you cannot, give thanks you have lived so long, and	 make yourself ready in your cabin for the mischance of the hour, if it so hap.—Cheerly, good hearts!—Out of our way, I say!	 
+
+<ACTION>He exits.</ACTION> 
+
+GONZALO I have great comfort from this fellow. Methinks he hath no drowning mark upon him. His	 complexion is perfect gallows. Stand fast, good Fate, to his hanging. Make the rope of his destiny our cable, for our own doth little advantage. If he be not born to be hanged, our case is miserable. 
+
+<ACTION>He exits with Alonso, Sebastian,and the other courtiers.</ACTION> 
+
+<ACTION>Enter Boatswain.</ACTION> 
+
+BOATSWAIN Down with the topmast! Yare! Lower, lower!	 Bring her to try wi’ th’ main course. <ACTION> (A crywithin.)</ACTION> A plague upon this howling! They are louder than the weather or our office. 
+
+<ACTION>Enter Sebastian, Antonio, and Gonzalo.</ACTION> 
+
+Yet again? What do you here? Shall we give o’er and drown? Have you a mind to sink?	 
+
+SEBASTIAN A pox o’ your throat, you bawling, blasphemous, incharitable dog! 
+
+BOATSWAIN Work you, then. 
+
+ANTONIO Hang, cur, hang, you whoreson, insolent noisemaker! We are less afraid to be drowned than	 thou art. 
+
+GONZALO I’ll warrant him for drowning, though the ship were no stronger than a nutshell and as leaky as an unstanched wench. 
+
+BOATSWAIN Lay her ahold, ahold! Set her two courses.	 Off to sea again! Lay her off! 
+
+<ACTION>Enter more Mariners, wet.</ACTION> 
+
+MARINERS All lost! To prayers, to prayers! All lost! 
+
+<ACTION>Mariners exit.</ACTION> 
+
+BOATSWAIN  What, must our mouths be cold? 
+
+GONZALO The King and Prince at prayers. Let’s assist them, for our case is as theirs.	 
+
+SEBASTIAN I am out of patience. 
+
+ANTONIO We are merely cheated of our lives by drunkards. This wide-chopped rascal—would thou mightst lie drowning the washing of ten tides! 
+
+<ACTION>Boatswain exits.</ACTION> 
+
+GONZALO He’ll be hanged yet, though every drop of	 water swear against it and gape at wid’st to glut him. 
+
+<ACTION>A confused noise within:</ACTION> “Mercy on us!”—“We split, we split!”—“Farewell, my wife and children!”— “Farewell, brother!”—“We split, we split, we split!”	 
+
+ANTONIO Let’s all sink wi’ th’ King. 
+
+SEBASTIAN Let’s take leave of him. 
+
+<ACTION>He exits with Antonio.</ACTION> 
+
+GONZALO Now would I give a thousand furlongs of sea for an acre of barren ground: long heath, brown furze, anything. The wills above be done, but I	 would fain die a dry death. 
+
+<ACTION>He exits.</ACTION> 
+

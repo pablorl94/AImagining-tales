@@ -1,0 +1,22 @@
+<ACTION>Enter Lucius, Iachimo, and the Roman army at one door, and the Briton army at another, Leonatus Posthumus following like a poor soldier. They march over and go out. Then enter again, in skirmish, Iachimo and Posthumus. He vanquisheth and disarmeth Iachimo, and then leaves him. </ACTION> 
+
+IACHIMO The heaviness and guilt within my bosom Takes off my manhood. I have belied a lady, The Princess of this country, and the air on ’t Revengingly enfeebles me; or could this carl, A very drudge of nature’s, have subdued me	 In my profession? Knighthoods and honors, borne As I wear mine, are titles but of scorn. If that thy gentry, Britain, go before This lout as he exceeds our lords, the odds Is that we scarce are men and you are gods.	 
+
+<ACTION>He exits</ACTION> 
+
+<ACTION>The battle continues. The Britons fly; Cymbeline istaken. Then enter, to his rescue, Belarius as Morgan,Guiderius as Polydor, and Arviragus as Cadwal.</ACTION> 
+
+BELARIUS ,  <ACTION>as Morgan</ACTION> Stand, stand! We have th’ advantage of the ground. The lane is guarded. Nothing routs us but The villainy of our fears. 
+
+GUIDERIUS, AS POLYDOR, AND ARVIRAGUS, AS CADWAL  Stand, stand, and fight! 
+
+<ACTION>Enter Posthumus, and seconds the Britons. They rescueCymbeline and exit. Then enter Lucius, Iachimo, andImogen as Fidele.</ACTION> 
+
+LUCIUS ,  <ACTION>to Fidele</ACTION> Away, boy, from the troops, and save thyself,	 For friends kill friends, and the disorder’s such As war were hoodwinked. 
+
+IACHIMO ’Tis their fresh supplies. 
+
+LUCIUS It is a day turned strangely. Or betimes Let’s reinforce, or fly.	 
+
+<ACTION>They exit.</ACTION> 
+

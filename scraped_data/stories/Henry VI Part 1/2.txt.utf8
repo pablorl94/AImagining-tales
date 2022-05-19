@@ -1,0 +1,84 @@
+<ACTION>Enter Gloucester with his Servingmen in blue coats.</ACTION> 
+
+GLOUCESTER I am come to survey the Tower this day. Since Henry’s death I fear there is conveyance. Where be these warders that they wait not here?— Open the gates! ’Tis Gloucester that calls. 
+
+<ACTION>Servingmen knock at the gate.</ACTION> 
+
+FIRST WARDER ,  <ACTION>within</ACTION> Who’s there that knocks so imperiously?	 
+
+FIRST SERVINGMAN It is the noble Duke of Gloucester. 
+
+SECOND WARDER ,  <ACTION>within</ACTION> Whoe’er he be, you may not be let in. 
+
+FIRST SERVINGMAN Villains, answer you so the Lord Protector? 
+
+FIRST WARDER ,  <ACTION>within</ACTION> The Lord protect him, so we answer him. We do no otherwise than we are willed.	 
+
+GLOUCESTER Who willed you? Or whose will stands but mine? There’s none Protector of the realm but I.— Break up the gates! I’ll be your warrantize. Shall I be flouted thus by dunghill grooms? 
+
+<ACTION>Gloucester’s men rush at the Tower gates, andWoodville, the lieutenant, speaks within.</ACTION> 
+
+WOODVILLE What noise is this? What traitors have we here?	 
+
+GLOUCESTER Lieutenant, is it you whose voice I hear? Open the gates. Here’s Gloucester that would enter. 
+
+WOODVILLE Have patience, noble duke, I may not open. The Cardinal of Winchester forbids. From him I have express commandment	 That thou nor none of thine shall be let in. 
+
+GLOUCESTER Fainthearted Woodville, prizest him ’fore me? Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook? Thou art no friend to God or to the King.	 Open the gates, or I’ll shut thee out shortly. 
+
+SERVINGMEN Open the gates unto the Lord Protector, Or we’ll burst them open if that you come not quickly. 
+
+<ACTION>Enter, to the Protector at the Tower gates, Winchesterin cardinal’s robes and his men in tawny coats.</ACTION> 
+
+WINCHESTER How now, ambitious Humphrey, what means this? 
+
+GLOUCESTER Peeled priest, dost thou command me to be shut out? 
+
+WINCHESTER I do, thou most usurping proditor— And not Protector—of the King or realm. 
+
+GLOUCESTER Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord, Thou that giv’st whores indulgences to sin!	 I’ll canvass thee in thy broad cardinal’s hat If thou proceed in this thy insolence. 
+
+WINCHESTER Nay, stand thou back. I will not budge a foot. This be Damascus; be thou cursèd Cain To slay thy brother Abel, if thou wilt.	 
+
+GLOUCESTER I will not slay thee, but I’ll drive thee back. Thy scarlet robes, as a child’s bearing-cloth, I’ll use to carry thee out of this place. 
+
+WINCHESTER Do what thou dar’st, I beard thee to thy face. 
+
+GLOUCESTER What, am I dared and bearded to my face?—	 Draw, men, for all this privilegèd place. Blue coats to tawny coats!	All draw their swords. Priest, beware your beard. I mean to tug it and to cuff you soundly. Under my feet I’ll stamp thy cardinal’s hat;	 In spite of pope or dignities of Church, Here by the cheeks I’ll drag thee up and down. 
+
+WINCHESTER Gloucester, thou wilt answer this before the Pope. 
+
+GLOUCESTER Winchester goose, I cry “a rope, a rope!”— Now beat them hence; why do you let them stay?—	 Thee I’ll chase hence, thou wolf in sheep’s array.— Out, tawny coats, out, scarlet hypocrite! 
+
+<ACTION>Here Gloucester’s men beat out the Cardinal’s men,and enter in the hurly-burly the Mayor of Londonand his Officers.</ACTION> 
+
+MAYOR Fie, lords, that you, being supreme magistrates, Thus contumeliously should break the peace! 
+
+GLOUCESTER Peace, Mayor? Thou know’st little of my wrongs. Here’s Beaufort, that regards nor God nor king, Hath here distrained the Tower to his use. 
+
+WINCHESTER Here’s Gloucester, a foe to citizens, One that still motions war and never peace, O’ercharging your free purses with large fines; That seeks to overthrow religion Because he is Protector of the realm, And would have armor here out of the Tower To crown himself king and suppress the Prince. 
+
+GLOUCESTER I will not answer thee with words, but blows.	 
+
+<ACTION>Here they skirmish again.</ACTION> 
+
+MAYOR Naught rests for me in this tumultuous strife But to make open proclamation. Come, officer, as loud as e’er thou canst, cry. He hands an Officer a paper. 
+
+OFFICER <ACTION> reads</ACTION> All manner of men, assembled here in arms this day against God’s peace and the King’s, we	 charge and command you, in his Highness’ name, to repair to your several dwelling places, and not to wear, handle, or use any sword, weapon, or dagger henceforward, upon pain of death. 
+
+GLOUCESTER Cardinal, I’ll be no breaker of the law,	 But we shall meet and break our minds at large. 
+
+WINCHESTER Gloucester, we’ll meet to thy cost, be sure. Thy heartblood I will have for this day’s work. 
+
+MAYOR I’ll call for clubs if you will not away. <ACTION>(Aside.) </ACTION> This cardinal’s more haughty than the devil!	 
+
+GLOUCESTER Mayor, farewell. Thou dost but what thou mayst. 
+
+WINCHESTER Abominable Gloucester, guard thy head, For I intend to have it ere long. 
+
+<ACTION>Gloucester and Winchester exitat separate doors, with their Servingmen.</ACTION> 
+
+MAYOR ,  <ACTION>to Officers</ACTION> See the coast cleared, and then we will depart. <ACTION>(Aside.)</ACTION> Good God, these nobles should such	 stomachs bear! I myself fight not once in forty year. 
+
+<ACTION>They exit.</ACTION> 
+

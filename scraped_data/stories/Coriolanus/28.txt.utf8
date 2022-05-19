@@ -1,0 +1,118 @@
+<ACTION>Enter Tullus Aufidius, with Attendants.</ACTION> 
+
+AUFIDIUS Go tell the lords o’ th’ city I am here. Deliver them this paper.	 <ACTION>(He gives them a paper.)</ACTION> Having read it, Bid them repair to th’ marketplace, where I, Even in theirs and in the commons’ ears,	 Will vouch the truth of it. Him I accuse The city ports by this hath entered and Intends t’ appear before the people, hoping To purge himself with words. Dispatch. 
+
+<ACTION>The Attendants exit.</ACTION> 
+
+<ACTION>Enter three or four Conspirators of Aufidius’s faction.</ACTION> 
+
+Most welcome!	 
+
+FIRST CONSPIRATOR How is it with our general? 
+
+AUFIDIUS Even so As with a man by his own alms empoisoned And with his charity slain. 
+
+SECOND CONSPIRATOR Most noble sir,	 If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger. 
+
+AUFIDIUS Sir, I cannot tell. We must proceed as we do find the people.	 
+
+THIRD CONSPIRATOR The people will remain uncertain whilst ’Twixt you there’s difference, but the fall of either Makes the survivor heir of all. 
+
+AUFIDIUS I know it, And my pretext to strike at him admits	 A good construction. I raised him, and I pawned Mine honor for his truth, who, being so heightened, He watered his new plants with dews of flattery, Seducing so my friends; and to this end, He bowed his nature, never known before	 But to be rough, unswayable, and free. 
+
+THIRD CONSPIRATOR Sir, his stoutness When he did stand for consul, which he lost By lack of stooping— 
+
+AUFIDIUS That I would have spoke of.	 Being banished for ’t, he came unto my hearth, Presented to my knife his throat. I took him, Made him joint servant with me, gave him way In all his own desires; nay, let him choose Out of my files, his projects to accomplish,	 My best and freshest men; served his designments In mine own person; holp to reap the fame Which he did end all his; and took some pride To do myself this wrong; till at the last I seemed his follower, not partner; and	 He waged me with his countenance as if I had been mercenary. 
+
+FIRST CONSPIRATOR So he did, my lord. The army marvelled at it, and, in the last, When he had carried Rome and that we looked	 For no less spoil than glory— 
+
+AUFIDIUS There was it For which my sinews shall be stretched upon him. At a few drops of women’s rheum, which are As cheap as lies, he sold the blood and labor	 Of our great action. Therefore shall he die, And I’ll renew me in his fall. But hark! 
+
+<ACTION>Drums and trumpets sounds, with great shoutsof the people.</ACTION> 
+
+FIRST CONSPIRATOR Your native town you entered like a post And had no welcomes home, but he returns Splitting the air with noise.	 
+
+SECOND CONSPIRATOR  And patient fools, Whose children he hath slain, their base throats tear With giving him glory. 
+
+THIRD CONSPIRATOR  Therefore at your vantage, Ere he express himself or move the people	 With what he would say, let him feel your sword, Which we will second. When he lies along, After your way his tale pronounced shall bury His reasons with his body. 
+
+AUFIDIUS Say no more.	 
+
+<ACTION>Enter the Lords of the city.</ACTION> 
+
+Here come the lords. 
+
+ALL LORDS You are most welcome home. 
+
+AUFIDIUS I have not deserved it. But, worthy lords, have you with heed perused What I have written to you?	 
+
+ALL LORDS  We have. 
+
+FIRST LORD  And grieve to hear ’t. What faults he made before the last, I think Might have found easy fines, but there to end Where he was to begin and give away	 The benefit of our levies, answering us With our own charge, making a treaty where There was a yielding—this admits no excuse. 
+
+AUFIDIUS He approaches. You shall hear him. 
+
+CORIOLANUS Hail, lords! I am returned your soldier,	 No more infected with my country’s love Than when I parted hence, but still subsisting Under your great command. You are to know That prosperously I have attempted, and With bloody passage led your wars even to	 The gates of Rome. Our spoils we have brought home Doth more than counterpoise a full third part The charges of the action. We have made peace With no less honor to the Antiates	 Than shame to th’ Romans, and we here deliver, Subscribed by’ th’ Consuls and patricians, Together with the seal o’ th’ Senate, what We have compounded on. 
+
+<ACTION>He offers the lords a paper.</ACTION> 
+
+AUFIDIUS Read it not, noble lords,	 But tell the traitor in the highest degree He hath abused your powers. 
+
+CORIOLANUS “Traitor”? How now? 
+
+AUFIDIUS Ay, traitor, Martius. 
+
+CORIOLANUS Martius?	 
+
+AUFIDIUS Ay, Martius, Caius Martius. Dost thou think I’ll grace thee with that robbery, thy stol’n name Coriolanus, in Corioles? You lords and heads o’ th’ state, perfidiously He has betrayed your business and given up	 For certain drops of salt your city Rome— I say your city—to his wife and mother, Breaking his oath and resolution like A twist of rotten silk, never admitting Counsel o’ th’ war, but at his nurse’s tears	 He whined and roared away your victory, That pages blushed at him and men of heart Looked wond’ring each at other. 
+
+CORIOLANUS Hear’st thou, Mars? 
+
+AUFIDIUS Name not the god, thou boy of tears.	 
+
+CORIOLANUS Ha? 
+
+AUFIDIUS No more. 
+
+CORIOLANUS Measureless liar, thou hast made my heart Too great for what contains it. “Boy”? O slave!— Pardon me, lords, ’tis the first time that ever	 I was forced to scold. Your judgments, my grave lords, Must give this cur the lie; and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his grave—shall join	 To thrust the lie unto him. 
+
+FIRST LORD Peace, both, and hear me speak. 
+
+CORIOLANUS Cut me to pieces, Volsces. Men and lads, Stain all your edges on me. “Boy”? False hound! If you have writ your annals true, ’tis there	 That like an eagle in a dovecote, I Fluttered your Volscians in Corioles, Alone I did it. “Boy”! 
+
+AUFIDIUS Why, noble lords, Will you be put in mind of his blind fortune,	 Which was your shame, by this unholy braggart, ’Fore your own eyes and ears? 
+
+ALL CONSPIRATORS Let him die for ’t. 
+
+ALL PEOPLE  Tear him to pieces! Do it presently! He killed my son! My daughter! He killed my cousin	 Marcus! He killed my father! 
+
+SECOND LORD  Peace, ho! No outrage! Peace! The man is noble, and his fame folds in This orb o’ th’ Earth. His last offenses to us Shall have judicious hearing. Stand, Aufidius,	 And trouble not the peace. 
+
+CORIOLANUS ,  <ACTION>drawing his sword</ACTION> O, that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword. 
+
+AUFIDIUS Insolent villain!	 
+
+ALL CONSPIRATORS Kill, kill, kill, kill, kill him! 
+
+<ACTION>Draw the Conspirators, and kills Martius, who falls.Aufidius stands on him.</ACTION> 
+
+LORDS Hold, hold, hold, hold! 
+
+AUFIDIUS My noble masters, hear me speak. 
+
+FIRST LORD O Tullus! 
+
+SECOND LORD Thou hast done a deed whereat valor will weep.	 
+
+THIRD LORD Tread not upon him.—Masters, all be quiet.— Put up your swords. 
+
+AUFIDIUS My lords, when you shall know—as in this rage, Provoked by him, you cannot—the great danger Which this man’s life did owe you, you’ll rejoice	 That he is thus cut off. Please it your Honors To call me to your senate, I’ll deliver Myself your loyal servant or endure Your heaviest censure. 
+
+FIRST LORD Bear from hence his body,	 And mourn you for him. Let him be regarded As the most noble corse that ever herald Did follow to his urn. 
+
+SECOND LORD His own impatience Takes from Aufidius a great part of blame.	 Let’s make the best of it. 
+
+AUFIDIUS My rage is gone, And I am struck with sorrow.—Take him up. Help, three o’ th’ chiefest soldiers; I’ll be one.— Beat thou the drum that it speak mournfully.—	 Trail your steel pikes. Though in this city he Hath widowed and unchilded many a one, Which to this hour bewail the injury, Yet he shall have a noble memory. Assist.	 
+
+<ACTION>They exit bearing the body of Martius.A dead march sounded.</ACTION> 
+

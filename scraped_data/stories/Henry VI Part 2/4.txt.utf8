@@ -1,0 +1,228 @@
+<ACTION>Enter King Henry, Queen Margaret, Gloucester theLord Protector, Cardinal, and Suffolk, andAttendants, with Falconers hallowing.</ACTION> 
+
+QUEEN MARGARET Believe me, lords, for flying at the brook I saw not better sport these seven years’ day. Yet, by your leave, the wind was very high, And, ten to one, old Joan had not gone out. 
+
+KING HENRY ,  <ACTION>to Gloucester</ACTION> But what a point, my lord, your falcon made,	 And what a pitch she flew above the rest! To see how God in all his creatures works! Yea, man and birds are fain of climbing high. 
+
+SUFFOLK No marvel, an it like your Majesty, My Lord Protector’s hawks do tower so well;	 They know their master loves to be aloft And bears his thoughts above his falcon’s pitch. 
+
+GLOUCESTER My lord, ’tis but a base ignoble mind That mounts no higher than a bird can soar. 
+
+CARDINAL I thought as much. He would be above the clouds.	 
+
+GLOUCESTER Ay, my Lord Cardinal, how think you by that? Were it not good your Grace could fly to heaven? 
+
+KING HENRY The treasury of everlasting joy. 
+
+CARDINAL ,  <ACTION>to Gloucester</ACTION> Thy heaven is on Earth; thine eyes and thoughts Beat on a crown, the treasure of thy heart.	 Pernicious Protector, dangerous peer, That smooth’st it so with king and commonweal! 
+
+GLOUCESTER What, cardinal, is your priesthood grown peremptory? Tantaene animis caelestibus irae?	 Churchmen so hot? Good uncle, hide such malice. With such holiness, can you do it? 
+
+SUFFOLK No malice, sir, no more than well becomes So good a quarrel and so bad a peer. 
+
+GLOUCESTER As who, my lord?	 
+
+SUFFOLK  Why, as you, my lord, An ’t like your lordly Lord Protectorship. 
+
+GLOUCESTER Why, Suffolk, England knows thine insolence. 
+
+QUEEN MARGARET And thy ambition, Gloucester. 
+
+KING HENRY I prithee peace, Good queen, and whet not on these furious peers, For blessèd are the peacemakers on Earth. 
+
+CARDINAL Let me be blessèd for the peace I make Against this proud Protector with my sword! 
+
+GLOUCESTER ,  <ACTION>aside to Cardinal</ACTION> Faith, holy uncle, would ’t were come to that!	 
+
+CARDINAL ,  <ACTION>aside to Gloucester</ACTION> Marry, when thou dar’st! 
+
+GLOUCESTER ,  <ACTION>aside to Cardinal</ACTION> Make up no factious numbers for the matter. In thine own person answer thy abuse. 
+
+CARDINAL , <ACTION> aside to Gloucester</ACTION> Ay, where thou dar’st not peep. An if thou dar’st,	 This evening, on the east side of the grove. 
+
+KING HENRY How now, my lords? 
+
+CARDINAL Believe me, cousin Gloucester, Had not your man put up the fowl so suddenly, We had had more sport. <ACTION> (Aside to Gloucester.)</ACTION> Come with thy two-hand sword. 
+
+GLOUCESTER True, uncle.  <ACTION>(Aside to Cardinal.) </ACTION> Are you advised? The east side of the grove. 
+
+CARDINAL ,  <ACTION>aside to Gloucester</ACTION> I am with you. 
+
+KING HENRY Why, how now, uncle Gloucester?	 
+
+GLOUCESTER Talking of hawking; nothing else, my lord. <ACTION>(Aside to Cardinal.) </ACTION> Now, by God’s mother, priest, I’ll shave your crown for this, Or all my fence shall fail. 
+
+CARDINAL ,  <ACTION>aside to Gloucester </ACTION> Medice, teipsum; Protector, see to ’t well; protect yourself. 
+
+KING HENRY The winds grow high; so do your stomachs, lords. How irksome is this music to my heart! When such strings jar, what hope of harmony? I pray, my lords, let me compound this strife. 
+
+<ACTION>Enter a man from St. Albans crying “A miracle!”</ACTION> 
+
+GLOUCESTER What means this noise?— Fellow, what miracle dost thou proclaim? 
+
+MAN   A miracle, a miracle! 
+
+SUFFOLK Come to the King, and tell him what miracle. 
+
+MAN Forsooth, a blind man at Saint Alban’s shrine	 Within this half hour hath received his sight, A man that ne’er saw in his life before. 
+
+KING HENRY Now, God be praised, that to believing souls Gives light in darkness, comfort in despair. 
+
+<ACTION>Enter the Mayor of Saint Albans, and his brethren,bearing the man Simpcox between two in a chair,followed by Simpcox’s Wife and Others.</ACTION> 
+
+CARDINAL Here comes the townsmen on procession	 To present your Highness with the man. 
+
+KING HENRY Great is his comfort in this earthly vale, Although by his sight his sin be multiplied. 
+
+GLOUCESTER Stand by, my masters.—Bring him near the King. His Highness’ pleasure is to talk with him. The two bearers bring the chair forward. 
+
+KING HENRY Good fellow, tell us here the circumstance, That we for thee may glorify the Lord. What, hast thou been long blind and now restored? 
+
+SIMPCOX Born blind, an ’t please your Grace. 
+
+WIFE Ay, indeed, was he.	 
+
+SUFFOLK What woman is this? 
+
+WIFE  His wife, an ’t like your Worship. 
+
+GLOUCESTER Hadst thou been his mother, thou couldst have better told. 
+
+KING HENRY  Where wert thou born?	 
+
+SIMPCOX At Berwick in the North, an ’t like your Grace. 
+
+KING HENRY Poor soul, God’s goodness hath been great to thee. Let never day nor night unhallowed pass, But still remember what the Lord hath done. 
+
+QUEEN MARGARET Tell me, good fellow, cam’st thou here by chance,	 Or of devotion to this holy shrine? 
+
+SIMPCOX God knows, of pure devotion, being called A hundred times and oftener in my sleep By good Saint Alban, who said “Simon, come, Come, offer at my shrine, and I will help thee.”	 
+
+WIFE Most true, forsooth, and many time and oft Myself have heard a voice to call him so. 
+
+CARDINAL What, art thou lame? 
+
+SIMPCOX Ay, God Almighty help me! 
+
+SUFFOLK How cam’st thou so?	 
+
+SIMPCOX   A fall off of a tree. 
+
+WIFE   A plum tree, master. 
+
+GLOUCESTER  How long hast thou been blind? 
+
+SIMPCOX O, born so, master. 
+
+GLOUCESTER  What, and wouldst climb a tree?	 
+
+SIMPCOX But that in all my life, when I was a youth. 
+
+WIFE Too true, and bought his climbing very dear. 
+
+GLOUCESTER Mass, thou lov’dst plums well, that wouldst venture so. 
+
+SIMPCOX  Alas, good master, my wife desired some	 damsons, and made me climb, with danger of my life. 
+
+GLOUCESTER A subtle knave, but yet it shall not serve.— Let me see thine eyes. Wink now. Now open them. In my opinion, yet thou seest not well.	 
+
+SIMPCOX  Yes, master, clear as day, I thank God and Saint Alban. 
+
+GLOUCESTER Sayst thou me so? What color is this cloak of? 
+
+SIMPCOX Red, master, red as blood. 
+
+GLOUCESTER Why, that’s well said. What color is my gown of?	 
+
+SIMPCOX Black, forsooth, coal-black as jet. 
+
+KING HENRY Why, then, thou know’st what color jet is of. 
+
+SUFFOLK And yet, I think, jet did he never see. 
+
+GLOUCESTER But cloaks and gowns, before this day, a many. 
+
+WIFE Never, before this day, in all his life.	 
+
+GLOUCESTER  Tell me, sirrah, what’s my name? 
+
+SIMPCOX Alas, master, I know not. 
+
+GLOUCESTER , <ACTION> pointing  </ACTION> What’s his name? 
+
+SIMPCOX I know not. 
+
+GLOUCESTER ,  <ACTION>pointing to someone else  </ACTION> Nor his?	 
+
+SIMPCOX  No, indeed, master. 
+
+GLOUCESTER  What’s thine own name? 
+
+SIMPCOX Sander Simpcox, an if it please you, master. 
+
+GLOUCESTER Then, Sander, sit there, the lying’st knave in Christendom. If thou hadst been born blind,	 thou mightst as well have known all our names as thus to name the several colors we do wear. Sight may distinguish of colors; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would you	 not think his cunning to be great that could restore this cripple to his legs again? 
+
+SIMPCOX O master, that you could! 
+
+GLOUCESTER My masters of Saint Albans, have you not beadles in your town and things called whips?	 
+
+MAYOR Yes, my lord, if it please your Grace. 
+
+GLOUCESTER Then send for one presently. 
+
+MAYOR  Sirrah, go fetch the beadle hither straight. 
+
+<ACTION>A man exits.</ACTION> 
+
+GLOUCESTER Now fetch me a stool hither by and by. <ACTION>One brings a stool.</ACTION> Now, sirrah, if you mean to	 save yourself from whipping, leap me over this stool, and run away. 
+
+SIMPCOX Alas, master, I am not able to stand alone. You go about to torture me in vain. 
+
+<ACTION>Enter a Beadle with whips.</ACTION> 
+
+GLOUCESTER Well, sir, we must have you find your	 legs.—Sirrah beadle, whip him till he leap over that same stool. 
+
+BEADLE I will, my lord.—Come on, sirrah, off with your doublet quickly. 
+
+SIMPCOX Alas, master, what shall I do? I am not able to	 stand. 
+
+<ACTION>After the Beadle hath hit him once, he leapsover the stool and runs away; and they followand cry “A miracle!”</ACTION> 
+
+KING HENRY O God, seest Thou this, and bearest so long? 
+
+QUEEN MARGARET It made me laugh to see the villain run. 
+
+GLOUCESTER ,  <ACTION>to the Beadle</ACTION> Follow the knave, and take this drab away. 
+
+WIFE  Alas, sir, we did it for pure need.	 
+
+GLOUCESTER Let them be whipped through every market town Till they come to Berwick, from whence they came. 
+
+<ACTION>The Beadle, Mayor, Wife, and the others fromSaint Albans exit.</ACTION> 
+
+CARDINAL Duke Humphrey has done a miracle today. 
+
+SUFFOLK True, made the lame to leap and fly away. 
+
+GLOUCESTER But you have done more miracles than I.	 You made in a day, my lord, whole towns to fly. 
+
+<ACTION>Enter Buckingham.</ACTION> 
+
+KING HENRY What tidings with our cousin Buckingham? 
+
+BUCKINGHAM Such as my heart doth tremble to unfold: A sort of naughty persons, lewdly bent, Under the countenance and confederacy	 Of Lady Eleanor, the Protector’s wife, The ringleader and head of all this rout, Have practiced dangerously against your state, Dealing with witches and with conjurers, Whom we have apprehended in the fact,	 Raising up wicked spirits from under ground, Demanding of King Henry’s life and death And other of your Highness’ Privy Council, As more at large your Grace shall understand. 
+
+CARDINAL And so, my Lord Protector, by this means	 Your lady is forthcoming yet at London. Aside to Gloucester. This news, I think, hath turned your weapon’s edge; ’Tis like, my lord, you will not keep your hour. 
+
+GLOUCESTER Ambitious churchman, leave to afflict my heart.	 Sorrow and grief have vanquished all my powers, And, vanquished as I am, I yield to thee, Or to the meanest groom. 
+
+KING HENRY O God, what mischiefs work the wicked ones, Heaping confusion on their own heads thereby!	 
+
+QUEEN MARGARET Gloucester, see here the tainture of thy nest, And look thyself be faultless, thou wert best. 
+
+GLOUCESTER Madam, for myself, to heaven I do appeal How I have loved my king and commonweal; And, for my wife, I know not how it stands.	 Sorry I am to hear what I have heard. Noble she is; but if she have forgot Honor and virtue, and conversed with such As, like to pitch, defile nobility, I banish her my bed and company	 And give her as a prey to law and shame That hath dishonored Gloucester’s honest name. 
+
+KING HENRY Well, for this night we will repose us here. Tomorrow toward London back again, To look into this business thoroughly, And call these foul offenders to their answers, And poise the cause in Justice’ equal scales, Whose beam stands sure, whose rightful cause prevails. 
+
+<ACTION>Flourish. They exit.</ACTION> 
+

@@ -1,0 +1,40 @@
+Afterword by Bruce Schneier 
+
+I'm a security technologist.  My job is making people secure. 
+
+I think about security systems and how to break them.  Then, how to make them more secure.  Computer security systems.  Surveillance systems.  Airplane security systems and voting machines and RFID chips and everything else. 
+
+Cory invited me into the last few pages of his book because he wanted me to tell you that security is fun.  It's incredibly fun.  It's cat and mouse, who can outsmart whom, hunter versus hunted fun.  I think it's the most fun job you can possibly have.  If you thought it was fun to read about Marcus outsmarting the gait-recognition cameras with rocks in his shoes, think of how much more fun it would be if you were the first person in the world to think of that. 
+
+Working in security means knowing a lot about technology.  It might mean knowing about computers and networks, or cameras and how they work, or the chemistry of bomb detection.  But really, security is a mindset.  It's a way of thinking.  Marcus is a great example of that way of thinking.  He's always looking for ways a security system fails.  I'll bet he couldn't walk into a store without figuring out a way to shoplift.  Not that he'd do it -- there's a difference between knowing how to defeat a security system and actually defeating it -- but he'd know he could. 
+
+It's how security people think. We're constantly looking at security systems and how to get around them; we can't help it. 
+
+This kind of thinking is important no matter what side of security you're on.  If you've been hired to build a shoplift-proof store, you'd better know how to shoplift.  If you're designing a camera system that detects individual gaits, you'd better plan for people putting rocks in their shoes.  Because if you don't, you're not going to design anything good. 
+
+So when you're wandering through your day, take a moment to look at the security systems around you.  Look at the cameras in the stores you shop at.  (Do they prevent crime, or just move it next door?)  See how a restaurant operates.  (If you pay after you eat, why don't more people just leave without paying?)  Pay attention at airport security.  (How could you get a weapon onto an airplane?)  Watch what the teller does at a bank.  (Bank security is designed to prevent tellers from stealing just as much as it is to prevent you from stealing.)  Stare at an anthill.  (Insects are all about security.)  Read the Constitution, and notice all the ways it provides people with security against government. Look at traffic lights and door locks and all the security systems on television and in the movies.  Figure out how they work, what threats they protect against and what threats they don't, how they fail, and how they can be exploited. 
+
+Spend enough time doing this, and you'll find yourself thinking differently about the world.  You'll start noticing that many of the security systems out there don't actually do what they claim to, and that much of our national security is a waste of money.  You'll understand privacy as essential to security, not in opposition.  You'll stop worrying about things other people worry about, and start worrying about things other people don't even think about. 
+
+Sometimes you'll notice something about security that no one has ever thought about before.  And maybe you'll figure out a new way to break a security system. 
+
+It was only a few years ago that someone invented phishing. 
+
+I'm frequently amazed how easy it is to break some pretty big-name security systems.  There are a lot of reasons for this, but the big one is that it's impossible to prove that something is secure.  All you can do is try to break it --  if you fail, you know that it's secure enough to keep *you* out, but what about someone who's smarter than you? Anyone can design a security system so strong he himself can't break it. 
+
+Think about that for a second, because it's not obvious.  No one is qualified to analyze their own security designs, because the designer and the analyzer will be the same person, with the same limits.  Someone else has to analyze the security, because it has to be secure against things the designers didn't think of. 
+
+This means that all of us have to analyze the security that other people design.  And surprisingly often, one of us breaks it.  Marcus's exploits aren't far-fetched; that kind of thing happens all the time.  Go onto the net and look up "bump key" or "Bic pen Kryptonite lock"; you'll find a couple of really interesting stories about seemingly strong security defeated by pretty basic technology. 
+
+And when that happens, be sure to publish it on the Internet somewhere. Secrecy and security aren't the same, even though it may seem that way.  Only bad security relies on secrecy; good security works even if all the details of it are public. 
+
+And publishing vulnerabilities forces security designers to design better security, and makes us all better consumers of security.  If you buy a Kryptonite bike lock and it can be defeated with a Bic pen, you're not getting very good security for your money.  And, likewise, if a bunch of smart kids can defeat the DHS's antiterrorist technologies, then it's not going to do a very good job against real terrorists. 
+
+Trading privacy for security is stupid enough; not getting any actual security in the bargain is even stupider. 
+
+So close the book and go.  The world is full of security systems.  Hack one of them. 
+
+Bruce Schneier http://www.schneier.com 
+
+&&& 
+

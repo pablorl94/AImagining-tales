@@ -1,0 +1,54 @@
+<ACTION>Enter the Master Gunner of Orleance and his Boy.</ACTION> 
+
+MASTER GUNNER Sirrah, thou know’st how Orleance is besieged And how the English have the suburbs won. 
+
+BOY Father, I know, and oft have shot at them; Howe’er, unfortunate, I missed my aim. 
+
+MASTER GUNNER But now thou shalt not. Be thou ruled by me.	 Chief master-gunner am I of this town; Something I must do to procure me grace. The Prince’s espials have informèd me How the English, in the suburbs close entrenched, Went through a secret grate of iron bars	 In yonder tower, to overpeer the city, And thence discover how with most advantage They may vex us with shot or with assault. To intercept this inconvenience, A piece of ordnance ’gainst it I have placed,	 And even these three days have I watched If I could see them. Now do thou watch, For I can stay no longer. If thou spy’st any, run and bring me word; And thou shalt find me at the Governor’s.	 <ACTION>He exits.</ACTION> 
+
+BOY Father, I warrant you, take you no care; I’ll never trouble you if I may spy them.	 <ACTION>He exits.</ACTION> 
+
+<ACTION>Enter Salisbury and Talbot on the turrets,with Sir William Glansdale, Sir Thomas Gargrave,Attendants and Others.</ACTION> 
+
+SALISBURY Talbot, my life, my joy, again returned! How wert thou handled, being prisoner? Or by what means gott’st thou to be released?	 Discourse, I prithee, on this turret’s top. 
+
+TALBOT The Duke of Bedford had a prisoner Called the brave Lord Ponton de Santrailles; For him was I exchanged and ransomèd. But with a baser man-of-arms by far	 Once in contempt they would have bartered me, Which I disdaining, scorned, and cravèd death Rather than I would be so vile-esteemed. In fine, redeemed I was as I desired. But O, the treacherous Fastolf wounds my heart,	 Whom with my bare fists I would execute If I now had him brought into my power. 
+
+SALISBURY Yet tell’st thou not how thou wert entertained. 
+
+TALBOT With scoffs and scorns and contumelious taunts. In open marketplace produced they me	 To be a public spectacle to all. “Here,” said they, “is the terror of the French, The scarecrow that affrights our children so.” Then broke I from the officers that led me, And with my nails digged stones out of the ground	 To hurl at the beholders of my shame. My grisly countenance made others fly; None durst come near for fear of sudden death. In iron walls they deemed me not secure: So great fear of my name ’mongst them were spread	 That they supposed I could rend bars of steel And spurn in pieces posts of adamant. Wherefore a guard of chosen shot I had That walked about me every minute-while; And if I did but stir out of my bed,	 Ready they were to shoot me to the heart. 
+
+<ACTION>Enter the Boy with a linstock.He crosses the main stage and exits.</ACTION> 
+
+SALISBURY I grieve to hear what torments you endured, But we will be revenged sufficiently. Now it is supper time in Orleance. Here, through this grate, I count each one	 And view the Frenchmen how they fortify. Let us look in; the sight will much delight thee. Sir Thomas Gargrave and Sir William Glansdale, Let me have your express opinions Where is best place to make our batt’ry next?	 
+
+GARGRAVE I think at the north gate, for there stands lords. 
+
+GLANSDALE And I, here, at the bulwark of the bridge. 
+
+TALBOT For aught I see, this city must be famished Or with light skirmishes enfeeblèd. 
+
+<ACTION>Here they shoot, and Salisburyand Gargrave fall down.</ACTION> 
+
+SALISBURY O Lord, have mercy on us, wretched sinners!	 
+
+GARGRAVE O Lord, have mercy on me, woeful man! 
+
+TALBOT What chance is this that suddenly hath crossed us?— Speak, Salisbury—at least if thou canst, speak! How far’st thou, mirror of all martial men? One of thy eyes and thy cheek’s side struck off!—	 Accursèd tower, accursèd fatal hand That hath contrived this woeful tragedy! In thirteen battles Salisbury o’ercame; Henry the Fifth he first trained to the wars. Whilst any trump did sound or drum struck up, His sword did ne’er leave striking in the field.— Yet liv’st thou, Salisbury? Though thy speech doth fail, One eye thou hast to look to heaven for grace. The sun with one eye vieweth all the world. Heaven, be thou gracious to none alive	 If Salisbury wants mercy at thy hands!— Sir Thomas Gargrave, hast thou any life? Speak unto Talbot. Nay, look up to him.— Bear hence his body; I will help to bury it. Attendants exit with body of Gargrave. 
+
+Salisbury, cheer thy spirit with this comfort,	 Thou shalt not die whiles— He beckons with his hand and smiles on me As who should say “When I am dead and gone, Remember to avenge me on the French.” Plantagenet, I will; and, like thee, Nero,	 Play on the lute, beholding the towns burn.Wretched shall France be only in my name. 
+
+<ACTION>Here an alarum, and it thunders and lightens.</ACTION> 
+
+What stir is this? What tumult’s in the heavens? Whence cometh this alarum and the noise? 
+
+<ACTION>Enter a Messenger.</ACTION> 
+
+MESSENGER My lord, my lord, the French have gathered head.	 The Dauphin, with one Joan la Pucelle joined, A holy prophetess new risen up, Is come with a great power to raise the siege. 
+
+<ACTION>Here Salisbury lifteth himself up and groans.</ACTION> 
+
+TALBOT Hear, hear, how dying Salisbury doth groan; It irks his heart he cannot be revenged.	 Frenchmen, I’ll be a Salisbury to you. Pucelle or puzel, dauphin or dogfish, Your hearts I’ll stamp out with my horse’s heels And make a quagmire of your mingled brains. Convey we Salisbury into his tent,	 And then try what these dastard Frenchmen dare. 
+
+<ACTION>Alarum. They exit.</ACTION> 
+

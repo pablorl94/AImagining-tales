@@ -1,0 +1,120 @@
+<ACTION>Enter Prince, Poins, Bardolph, and Peto.</ACTION> 
+
+POINS Come, shelter, shelter! I have removed Falstaff’s horse, and he frets like a gummed velvet. 
+
+PRINCE  Stand close. <ACTION>	Poins, Bardolph, and Peto exit.</ACTION> 
+
+<ACTION>Enter Falstaff.</ACTION> 
+
+FALSTAFF Poins! Poins, and be hanged! Poins! 
+
+PRINCE Peace, you fat-kidneyed rascal. What a brawling	 dost thou keep! 
+
+FALSTAFF Where’s Poins, Hal? 
+
+PRINCE He is walked up to the top of the hill. I’ll go seek him.	 <ACTION>Prince exits.</ACTION> 
+
+FALSTAFF I am accursed to rob in that thief’s company.	 The rascal hath removed my horse and tied him I know not where. If I travel but four foot by the square further afoot, I shall break my wind. Well, I doubt not but to die a fair death for all this, if I ’scape hanging for killing that rogue. I have forsworn	 his company hourly any time this two-and-twenty years, and yet I am bewitched with the rogue’s company. If the rascal have not given me medicines to make me love him, I’ll be hanged. It could not be else: I have drunk medicines.—Poins!	 Hal! A plague upon you both.—Bardolph! Peto!— I’ll starve ere I’ll rob a foot further. An ’twere not as good a deed as drink to turn true man and to leave these rogues, I am the veriest varlet that ever chewed with a tooth. Eight yards of uneven ground	 is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough. A plague upon it when thieves cannot be true one to another! <ACTION>(They whistle, within.) </ACTION> Whew! A plague upon you all!		 
+
+<ACTION>Enter the Prince, Poins, Peto, and Bardolph.</ACTION> Give me my horse, you rogues. Give me my horse and be hanged! 
+
+PRINCE Peace, you fat guts! Lie down, lay thine ear close to the ground, and list if thou canst hear the tread of travelers. 
+
+FALSTAFF  Have you any levers to lift me up again being down? ’Sblood, I’ll not bear my own flesh so far afoot again for all the coin in thy father’s Exchequer. What a plague mean you to colt me thus?	 
+
+PRINCE   Thou liest. Thou art not colted; thou art uncolted. 
+
+FALSTAFF I prithee, good Prince Hal, help me to my horse, good king’s son. 
+
+PRINCE Out, you rogue! Shall I be your ostler? 
+
+FALSTAFF Hang thyself in thine own heir-apparent garters! If I be ta’en, I’ll peach for this. An I have not ballads made on you all and sung to filthy tunes, let a cup of sack be my poison—when a jest is so forward, and afoot too! I hate it. 
+
+<ACTION>Enter Gadshill.</ACTION> 
+
+GADSHILL Stand. 
+
+FALSTAFF So I do, against my will. 
+
+POINS O, ’tis our setter. I know his voice. 
+
+BARDOLPH What news? 
+
+GADSHILL Case you, case you. On with your vizards.	 There’s money of the King’s coming down the hill. ’Tis going to the King’s Exchequer. 
+
+FALSTAFF You lie, you rogue. ’Tis going to the King’s Tavern. 
+
+GADSHILL There’s enough to make us all.	 
+
+FALSTAFF To be hanged. 
+
+PRINCE Sirs, you four shall front them in the narrow lane. Ned Poins and I will walk lower. If they ’scape from your encounter, then they light on us. 
+
+PETO How many be there of them?	 
+
+GADSHILL Some eight or ten. 
+
+FALSTAFF  Zounds, will they not rob us? 
+
+PRINCE  What, a coward, Sir John Paunch? 
+
+FALSTAFF Indeed, I am not John of Gaunt, your grandfather, but yet no coward, Hal.	 
+
+PRINCE Well, we leave that to the proof. 
+
+POINS Sirrah Jack, thy horse stands behind the hedge. When thou need’st him, there thou shalt find him. Farewell and stand fast. 
+
+FALSTAFF Now cannot I strike him, if I should be hanged. 
+
+PRINCE, <ACTION>aside to Poins </ACTION> Ned, where are our disguises? 
+
+POINS ,  <ACTION>aside to Prince</ACTION> Here, hard by. Stand close. 
+
+<ACTION>The Prince and Poins exit.</ACTION> 
+
+FALSTAFF Now, my masters, happy man be his dole, say I. Every man to his business.	 
+
+<ACTION>They step aside.</ACTION> 
+
+<ACTION>Enter the Travelers.</ACTION> 
+
+FIRST TRAVELER Come, neighbor, the boy shall lead our horses down the hill. We’ll walk afoot awhile and ease our legs. 
+
+THIEVES ,  <ACTION>advancing</ACTION> Stand! 
+
+TRAVELERS Jesus bless us!	 
+
+FALSTAFF Strike! Down with them! Cut the villains’ throats! Ah, whoreson caterpillars, bacon-fed knaves, they hate us youth. Down with them! Fleece them! 
+
+TRAVELERS O, we are undone, both we and ours	 forever! 
+
+FALSTAFF Hang, you gorbellied knaves! Are you undone? No, you fat chuffs. I would your store were here. On, bacons, on! What, you knaves, young men must live. You are grandjurors, are you? We’ll jure	 you, faith. 
+
+<ACTION>Here they rob them and bind them. They all exit.</ACTION> 
+
+<ACTION>Enter the Prince and Poins, disguised.</ACTION> 
+
+PRINCE The thieves have bound the true men. Now could thou and I rob the thieves and go merrily to London, it would be argument for a week, laughter for a month, and a good jest forever.	 
+
+POINS  Stand close, I hear them coming. 
+
+<ACTION>They step aside.</ACTION> 
+
+<ACTION>Enter the Thieves again.</ACTION> 
+
+FALSTAFF  Come, my masters, let us share, and then to horse before day. An the Prince and Poins be not two arrant cowards, there’s no equity stirring. There’s no more valor in that Poins than in a wild	 duck. 
+
+<ACTION>As they are sharing, the Princeand Poins set upon them.</ACTION> 
+
+PRINCE  Your money! 
+
+POINS Villains! 
+
+<ACTION>They all run away, and Falstaff, after a blow or two,runs away too, leaving the booty behind them.</ACTION> 
+
+PRINCE Got with much ease. Now merrily to horse. The thieves are all scattered, and possessed with	 fear So strongly that they dare not meet each other. Each takes his fellow for an officer. Away, good Ned. Falstaff sweats to death, And lards the lean earth as he walks along.	 Were ’t not for laughing, I should pity him. 
+
+POINS  How the fat rogue roared! 
+
+<ACTION>They exit.</ACTION> 
+

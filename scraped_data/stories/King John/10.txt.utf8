@@ -1,0 +1,128 @@
+<ACTION>Enter Arthur on the walls, dressed as a shipboy.</ACTION> 
+
+ARTHUR The wall is high, and yet will I leap down. Good ground, be pitiful and hurt me not. There’s few or none do know me. If they did, This shipboy’s semblance hath disguised me quite. I am afraid, and yet I’ll venture it.	 If I get down and do not break my limbs, I’ll find a thousand shifts to get away. As good to die and go as die and stay. 
+
+<ACTION>He jumps.</ACTION> 
+
+O me, my uncle’s spirit is in these stones. Heaven take my soul, and England keep my bones.	 
+
+<ACTION>He dies.</ACTION> 
+
+<ACTION>Enter Pembroke, Salisbury with a letter, and Bigot.</ACTION> 
+
+SALISBURY Lords, I will meet him at Saint Edmundsbury; It is our safety, and we must embrace This gentle offer of the perilous time. 
+
+PEMBROKE Who brought that letter from the Cardinal? 
+
+SALISBURY The Count Melun, a noble lord of France,	 Whose private with me of the Dauphin’s love Is much more general than these lines import. 
+
+BIGOT Tomorrow morning let us meet him, then. 
+
+SALISBURY Or rather then set forward, for ’twill be Two long days’ journey, lords, or ere we meet.	 
+
+<ACTION>Enter Bastard.</ACTION> 
+
+BASTARD Once more today well met, distempered lords. The King by me requests your presence straight. 
+
+SALISBURY The King hath dispossessed himself of us. We will not line his thin bestainèd cloak With our pure honors, nor attend the foot That leaves the print of blood where’er it walks. Return, and tell him so. We know the worst. 
+
+BASTARD Whate’er you think, good words I think were best. 
+
+SALISBURY Our griefs and not our manners reason now. 
+
+BASTARD But there is little reason in your grief.	 Therefore ’twere reason you had manners now. 
+
+PEMBROKE Sir, sir, impatience hath his privilege. 
+
+BASTARD ’Tis true, to hurt his master, no man’s else. 
+
+SALISBURY This is the prison. 
+
+<ACTION>He sees Arthur’s body.</ACTION> 
+
+What is he lies here?	 
+
+PEMBROKE O Death, made proud with pure and princely beauty! The Earth had not a hole to hide this deed. 
+
+SALISBURY Murder, as hating what himself hath done, Doth lay it open to urge on revenge. 
+
+BIGOT Or when he doomed this beauty to a grave,	 Found it too precious-princely for a grave. 
+
+SALISBURY , <ACTION> to Bastard</ACTION> Sir Richard, what think you? You have beheld. Or have you read or heard, or could you think, Or do you almost think, although you see, That you do see? Could thought, without this object,	 Form such another? This is the very top, The height, the crest, or crest unto the crest, Of murder’s arms. This is the bloodiest shame, The wildest savagery, the vilest stroke That ever wall-eyed wrath or staring rage	 Presented to the tears of soft remorse. 
+
+PEMBROKE All murders past do stand excused in this. And this, so sole and so unmatchable, Shall give a holiness, a purity, To the yet unbegotten sin of times	 And prove a deadly bloodshed but a jest, Exampled by this heinous spectacle. 
+
+BASTARD It is a damnèd and a bloody work, The graceless action of a heavy hand, If that it be the work of any hand.	 
+
+SALISBURY If that it be the work of any hand? We had a kind of light what would ensue. It is the shameful work of Hubert’s hand, The practice and the purpose of the King, From whose obedience I forbid my soul,	 Kneeling before this ruin of sweet life	He kneels. And breathing to his breathless excellence The incense of a vow, a holy vow: Never to taste the pleasures of the world, Never to be infected with delight,	 Nor conversant with ease and idleness, Till I have set a glory to this hand By giving it the worship of revenge. 
+
+PEMBROKE, BIGOT ,  <ACTION>kneeling</ACTION> Our souls religiously confirm thy words. 
+
+<ACTION>They rise.</ACTION> 
+
+<ACTION>Enter Hubert.</ACTION> 
+
+HUBERT Lords, I am hot with haste in seeking you.	 Arthur doth live; the King hath sent for you. 
+
+SALISBURY O, he is bold and blushes not at death!— Avaunt, thou hateful villain, get thee gone! 
+
+HUBERT I am no villain. 
+
+<ACTION>SALISBURY</ACTION> ,  <ACTION>drawing his sword</ACTION> Must I rob the law?  	 
+
+BASTARD Your sword is bright, sir. Put it up again. 
+
+SALISBURY Not till I sheathe it in a murderer’s skin. 
+
+HUBERT Stand back, Lord Salisbury, stand back, I say. By heaven, I think my sword’s as sharp as yours. He puts his hand on his sword. I would not have you, lord, forget yourself,	 Nor tempt the danger of my true defense, Lest I, by marking of your rage, forget Your worth, your greatness, and nobility. 
+
+BIGOT Out, dunghill! Dar’st thou brave a nobleman? 
+
+HUBERT Not for my life. But yet I dare defend	 My innocent life against an emperor. 
+
+SALISBURY Thou art a murderer. 
+
+HUBERT Do not prove me so. Yet I am none. Whose tongue soe’er speaks false, Not truly speaks. Who speaks not truly, lies.	 
+
+PEMBROKE ,  <ACTION>drawing his sword</ACTION> Cut him to pieces. 
+
+BASTARD ,  <ACTION>drawing his sword</ACTION> Keep the peace, I say. 
+
+SALISBURY Stand by, or I shall gall you, Faulconbridge. 
+
+BASTARD Thou wert better gall the devil, Salisbury. If thou but frown on me, or stir thy foot,	 Or teach thy hasty spleen to do me shame, I’ll strike thee dead. Put up thy sword betime, Or I’ll so maul you and your toasting-iron That you shall think the devil is come from hell. 
+
+BIGOT What wilt thou do, renownèd Faulconbridge?	 Second a villain and a murderer? 
+
+HUBERT Lord Bigot, I am none. 
+
+BIGOT  Who killed this prince? 
+
+HUBERT ’Tis not an hour since I left him well. I honored him, I loved him, and will weep	 My date of life out for his sweet life’s loss. 
+
+<ACTION>He weeps.</ACTION> 
+
+SALISBURY Trust not those cunning waters of his eyes, For villainy is not without such rheum, And he, long traded in it, makes it seem like rivers of remorse and innocency.	 Away with me, all you whose souls abhor Th’ uncleanly savors of a slaughterhouse, For I am stifled with this smell of sin. 
+
+BIGOT Away, toward Bury, to the Dauphin there. 
+
+PEMBROKE There, tell the King, he may inquire us out.	 
+
+<ACTION>Lords exit.</ACTION> 
+
+BASTARD Here’s a good world! Knew you of this fair work? Beyond the infinite and boundless reach Of mercy, if thou didst this deed of death, Art thou damned, Hubert 
+
+HUBERT Do but hear me, sir.	 
+
+BASTARD  Ha! I’ll tell thee what. Thou ’rt damned as black—nay, nothing is so black— Thou art more deep damned than Prince Lucifer. There is not yet so ugly a fiend of hell As thou shalt be, if thou didst kill this child.	 
+
+HUBERT Upon my soul— 
+
+BASTARD If thou didst but consent To this most cruel act, do but despair, And if thou want’st a cord, the smallest thread That ever spider twisted from her womb	 Will serve to strangle thee; a rush will be a beam To hang thee on. Or wouldst thou drown thyself, Put but a little water in a spoon And it shall be as all the ocean, Enough to stifle such a villain up.	 I do suspect thee very grievously. 
+
+HUBERT If I in act, consent, or sin of thought Be guilty of the stealing that sweet breath Which was embounded in this beauteous clay, Let hell want pains enough to torture me.	 I left him well. 
+
+BASTARD Go, bear him in thine arms. I am amazed, methinks, and lose my way Among the thorns and dangers of this world. Hubert takes up Arthur’s body. How easy dost thou take all England up!	 From forth this morsel of dead royalty, The life, the right, and truth of all this realm Is fled to heaven, and England now is left To tug and scamble and to part by th’ teeth The unowed interest of proud-swelling state.	 Now for the bare-picked bone of majesty Doth doggèd war bristle his angry crest And snarleth in the gentle eyes of peace. Now powers from home and discontents at home Meet in one line, and vast confusion waits,	 As doth a raven on a sick-fall’n beast, The imminent decay of wrested pomp. Now happy he whose cloak and cincture can Hold out this tempest. Bear away that child, And follow me with speed. I’ll to the King.	 A thousand businesses are brief in hand, And heaven itself doth frown upon the land. 
+
+<ACTION>They exit, with Hubert carrying Arthur’s body.</ACTION> 
+
