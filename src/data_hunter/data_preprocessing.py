@@ -1,0 +1,190 @@
+import io
+import logging
+import math
+import os
+import re
+
+import pandas as pd
+# from tqdm import tqdm
+
+
+LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
+LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
+logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT, datefmt=LOG_DATEFORMAT)
+logger = logging.getLogger(__name__)
+
+
+STORIES_PATH = './scraped_data/stories'
+SUMMARIES_PATH = './scraped_data/summaries'
+ALIGNMENTS_PATH = './scraped_data/manual_alignments'
+
+PREPROCESSED_DATA_PATH = './preprocessed_data'
+
+
+def setup_environment():
+    """Set up the environment."""
+    os.makedirs(PREPROCESSED_DATA_PATH, exist_ok=True)
+
+
+def get_alignments_titles() -> list[str]:
+    """Get the list of manual alignments."""
+    align_titles = []
+    for title in os.listdir(ALIGNMENTS_PATH):
+        align_titles.append(title)
+
+    logger.debug('We have {} titles with manual alignments.'.format(len(align_titles)))
+
+    return align_titles
+
+
+def get_stories_df() -> pd.DataFrame:
+    """Get the stories DataFrame."""
+    # Each row is a dictionary. The rows set is a list of dictionaries.
+    list_rows = []
+
+    # Iterate over stories titles.
+    alignments = get_alignments_titles()
+    for title in os.listdir(STORIES_PATH):
+        if title in alignments:
+            # Iterate over each title chapter.
+            folder_title = os.path.join(STORIES_PATH, title)
+
+            for chapter in os.listdir(folder_title):
+                # Each time a new chapter starts, reset the paragraph counter.
+                # The paragraph counter.
+                cont_p = 0
+
+                # The number of the chapter is taken from the filename.
+                chapter_name = folder_title + '/' + chapter
+                # The filename is *.txt.utf8 --> We take everything before the .txt.utf8
+                c = chapter[:-9]
+
+                # Read each chapter's file.
+                with open(chapter_name, mode="r", encoding="utf-8") as file:
+                    text = file.read()
+                    # Each paragraph is separated by two carriage return.
+                    # It would be equivalent to use the .splitlines().
+                    p = text.split("\n\n")
+
+                for i in range(len(p)):
+                    row = {'title': title, 'chapter': int(c), 'paragraph': cont_p, 'text': p[i]}
+                    list_rows.append(row)
+                    cont_p += 1
+
+            logger.debug(f'Finished processing the title: {title}')
+
+    stories = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
+    stories['len_text'] = stories['text'].str.len()
+    stories = stories[stories.len_text != 0]
+
+    return stories
+
+
+def get_summaries_df() -> pd.DataFrame:
+    """Get the summaries DataFrame."""
+    # Each row is a dictionary. The rows set is a list of dictionaries.
+    list_rows = []
+
+    # Iterate over stories titles.
+    alignments = get_alignments_titles()
+    for title in os.listdir(SUMMARIES_PATH):
+        if title in alignments:
+            # Iterate over each title chapter.
+            folder_title = os.path.join(SUMMARIES_PATH, title)
+            for chapter in os.listdir(folder_title):
+                # Each time a new chapter starts, reset the paragraph counter.
+                # The paragraph counter.
+                cont_p = 0
+
+                # The number of the chapter is taken from the filename.
+                chapter_name = folder_title + '/' + chapter
+                # The filename is *.txt.utf8 --> We take everything before the .txt.utf8
+                c = chapter[:-9]
+
+                # Read each chapter's file.
+                with open(chapter_name, mode="r", encoding="utf-8") as file:
+                    text = file.read()
+                    # Each paragraph is separated by two carriage return.
+                    # It would be equivalent to use the .splitlines().
+                    p = text.split("\n\n")
+
+                for i in range(len(p)):
+                    row = {'title': title, 'chapter': int(c), 'paragraph': cont_p, 'text': p[i]}
+                    list_rows.append(row)
+                    cont_p += 1
+
+            logger.debug(f'Finished processing the title: {title}')
+
+    summ = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
+    summ['len_text'] = summ['text'].str.len()
+    summ = summ[summ.len_text != 0]
+    summ = summ.drop(columns='len_text')
+
+    return summ
+
+
+def get_alignments_df() -> pd.DataFrame:
+    """Get the alignments DataFrame."""
+    # Each row is a dictionary. The rows set is a list of dictionaries.
+    list_rows = []
+
+    # Iterate over stories titles.
+    for title in os.listdir(ALIGNMENTS_PATH):
+        # Iterate over each title chapter.
+        folder_title = os.path.join(ALIGNMENTS_PATH, title)
+        for chapter in os.listdir(folder_title):
+            # Each time a new chapter starts, reset the paragraph counter.
+            # The paragraph counter.
+            cont_p = 0
+
+            # The number of the chapter is taken from the filename.
+            chapter_name = folder_title + '/' + chapter
+            # The filename is *.txt --> We take everything before the .txt
+            c = chapter[:-4]
+
+            # Read each chapter's file.
+            with open(chapter_name, mode="r", encoding="utf-8") as file:
+                text = file.read()
+                # Each paragraph is separated by a carriage return.
+                # It would be equivalent to use the .splitlines().
+                p = text.split("\n")
+
+            for i in range(len(p)):
+                row = {'title': title, 'chapter': int(c), 'paragraph': cont_p, 'text': p[i]}
+                list_rows.append(row)
+                cont_p += 1
+
+            logger.debug(f'Finished processing the title: {title}')
+
+    align = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
+    align = align.drop(columns='paragraph')
+    align['split1'] = align['text'].str.split(': ', 1).str[0]
+    align['split2'] = align['text'].str.split(': ', 1).str[1]
+    align['split1'] = align['split1'].str[1:]
+    align['split2'] = align['split2'].str[:-1]
+
+    return align
+
+
+def get_dataframes():
+    stories_df = get_stories_df()
+    stories_df.dropna(inplace=True)
+    stories_path = os.path.join(PREPROCESSED_DATA_PATH, 'stories.csv')
+    stories_df.to_csv(stories_path, index=False)
+
+    summaries_df = get_summaries_df()
+    summaries_df.dropna(inplace=True)
+    summaries_path = os.path.join(PREPROCESSED_DATA_PATH, 'summaries.csv')
+    summaries_df.to_csv(summaries_path, index=False)
+
+    alignments_df = get_alignments_df()
+    alignments_df.dropna(inplace=True)
+    alignments_path = os.path.join(PREPROCESSED_DATA_PATH, 'alignments.csv')
+    alignments_df.to_csv(alignments_path, index=False)
+
+    return stories_df, summaries_df, alignments_df
+
+
+if __name__ == '__main__':
+    setup_environment()
+    stories, summaries, alignments = get_dataframes()
