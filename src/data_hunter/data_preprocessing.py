@@ -1,6 +1,4 @@
-import io
 import logging
-import math
 import os
 import re
 
@@ -13,7 +11,6 @@ LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
 logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT, datefmt=LOG_DATEFORMAT)
 logger = logging.getLogger(__name__)
 
-
 STORIES_PATH = './scraped_data/stories'
 SUMMARIES_PATH = './scraped_data/summaries'
 ALIGNMENTS_PATH = './scraped_data/manual_alignments'
@@ -22,11 +19,17 @@ PREPROCESSED_DATA_PATH = './preprocessed_data'
 
 def setup_environment():
     """Set up the environment."""
+
+    for data_path in [STORIES_PATH, SUMMARIES_PATH, ALIGNMENTS_PATH]:
+        if not os.path.exists(data_path):
+            raise Exception(f"The path '{data_path}' does not exist.")
+
     os.makedirs(PREPROCESSED_DATA_PATH, exist_ok=True)
 
 
 def get_alignments_titles() -> list[str]:
     """Get the list of manual alignments."""
+
     align_titles = []
     for title in os.listdir(ALIGNMENTS_PATH):
         align_titles.append(title)
@@ -38,11 +41,13 @@ def get_alignments_titles() -> list[str]:
 
 def get_stories_df() -> pd.DataFrame:
     """Get the stories DataFrame."""
+
     # Each row is a dictionary. The rows set is a list of dictionaries.
     list_rows = []
 
     # Iterate over stories titles.
     alignments = get_alignments_titles()
+
     for title in os.listdir(STORIES_PATH):
         if title in alignments:
             # Iterate over each title chapter.
@@ -81,11 +86,13 @@ def get_stories_df() -> pd.DataFrame:
 
 def get_summaries_df() -> pd.DataFrame:
     """Get the summaries DataFrame."""
+
     # Each row is a dictionary. The rows set is a list of dictionaries.
     list_rows = []
 
     # Iterate over stories titles.
     alignments = get_alignments_titles()
+
     for title in os.listdir(SUMMARIES_PATH):
         if title in alignments:
             # Iterate over each title chapter.
@@ -114,16 +121,17 @@ def get_summaries_df() -> pd.DataFrame:
 
             logger.debug(f'Finished processing the title: {title}')
 
-    summ = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
-    summ['len_text'] = summ['text'].str.len()
-    summ = summ[summ.len_text != 0]
-    summ = summ.drop(columns='len_text')
+    summaries = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
+    summaries['len_text'] = summaries['text'].str.len()
+    summaries = summaries[summaries.len_text != 0]
+    summaries = summaries.drop(columns='len_text')
 
-    return summ
+    return summaries
 
 
 def get_alignments_df() -> pd.DataFrame:
     """Get the alignments DataFrame."""
+
     # Each row is a dictionary. The rows set is a list of dictionaries.
     list_rows = []
 
@@ -155,17 +163,19 @@ def get_alignments_df() -> pd.DataFrame:
 
         logger.debug(f'Finished processing the title: {title}')
 
-    align = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
-    align = align.drop(columns='paragraph')
-    align['split1'] = align['text'].str.split(': ', 1).str[0]
-    align['split2'] = align['text'].str.split(': ', 1).str[1]
-    align['split1'] = align['split1'].str[1:]
-    align['split2'] = align['split2'].str[:-1]
+    alignments = pd.DataFrame(list_rows, columns=['title', 'chapter', 'paragraph', 'text'])
+    alignments = alignments.drop(columns='paragraph')
+    alignments['split1'] = alignments['text'].str.split(': ', 1).str[0]
+    alignments['split2'] = alignments['text'].str.split(': ', 1).str[1]
+    alignments['split1'] = alignments['split1'].str[1:]
+    alignments['split2'] = alignments['split2'].str[:-1]
 
-    return align
+    return alignments
 
 
 def get_dataframes() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """Get the stories, summaries and alignments DataFrames."""
+
     stories_df = get_stories_df()
     stories_df.dropna(inplace=True)
     stories_path = os.path.join(PREPROCESSED_DATA_PATH, 'stories.csv')
@@ -184,10 +194,16 @@ def get_dataframes() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     return stories_df, summaries_df, alignments_df
 
 
-def merge_dataframes(stories_df, summaries_df, alignments_df):
+def merge_dataframes(stories_df: pd.DataFrame, summaries_df: pd.DataFrame,
+                     alignments_df: pd.DataFrame) -> pd.DataFrame:
+    """Combine the stories, summaries and alignments DataFrames."""
+
     all_df = alignments_df.copy()
 
+    # -----------------------
     # -- Add the summaries --
+    # -----------------------
+
     all_df["summary_text"] = ""
 
     # Iterate over all DataFrame rows.
@@ -211,7 +227,10 @@ def merge_dataframes(stories_df, summaries_df, alignments_df):
 
             all_df['summary_text'].iloc[i] = '\n\n'.join(list(text))
 
+    # ---------------------
     # -- Add the stories --
+    # ---------------------
+
     all_df["story_text"] = ""
     all_df['split2'] = all_df['split2'].astype(str)
 
@@ -239,13 +258,15 @@ def merge_dataframes(stories_df, summaries_df, alignments_df):
 
                 l.append("\n\n".join(text))
 
-            # 2 - Save the text story.
-            all_df['story_text'].iloc[i] = "\n\n\n\n".join(l)
+            # 2 - Save the story text.
+            all_df['story_text'].iloc[i] = "\n\n".join(l)
 
     return all_df
 
 
 def get_merged_df():
+    """Get the combined DataFrame."""
+
     stories_df, summaries_df, alignments_df = get_dataframes()
     data_df = merge_dataframes(stories_df, summaries_df, alignments_df)
     data_df.dropna(inplace=True)
@@ -253,7 +274,16 @@ def get_merged_df():
     data_df.to_csv(data_path, index=False)
 
 
+def load_dataframe(filename: str) -> pd.DataFrame:
+    """Load data from a file in the preprocessed path."""
+
+    path = os.path.join(PREPROCESSED_DATA_PATH, filename)
+    dataframe = pd.read_csv(path)
+
+    return dataframe
+
+
 if __name__ == '__main__':
     setup_environment()
-    path = os.path.join(PREPROCESSED_DATA_PATH, 'data.csv')
-    df = pd.read_csv(path)
+    # df = load_dataframe('data.csv')
+    get_merged_df()
