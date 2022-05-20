@@ -1,0 +1,80 @@
+<ACTION>Enter on the walls a French Sergeant of a Band,with two Sentinels.</ACTION> 
+
+SERGEANT Sirs, take your places and be vigilant. If any noise or soldier you perceive Near to the walls, by some apparent sign Let us have knowledge at the court of guard. 
+
+SENTINEL Sergeant, you shall.	 <ACTION>Sergeant exits.</ACTION> Thus are poor servitors, When others sleep upon their quiet beds, Constrained to watch in darkness, rain, and cold. 
+
+<ACTION>Enter Talbot, Bedford, and Burgundy, below,with scaling ladders.</ACTION> 
+
+TALBOT Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois,	 Walloon, and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted. Embrace we then this opportunity, As fitting best to quittance their deceit	 Contrived by art and baleful sorcery. 
+
+BEDFORD Coward of France, how much he wrongs his fame, Despairing of his own arm’s fortitude, To join with witches and the help of hell! 
+
+BURGUNDY Traitors have never other company.	 But what’s that Pucelle whom they term so pure? 
+
+TALBOT A maid, they say. 
+
+BEDFORD A maid? And be so martial? 
+
+BURGUNDY Pray God she prove not masculine ere long, If underneath the standard of the French	 She carry armor as she hath begun. 
+
+TALBOT Well, let them practice and converse with spirits. God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks. 
+
+BEDFORD Ascend, brave Talbot. We will follow thee.	 
+
+TALBOT Not all together. Better far, I guess, That we do make our entrance several ways, That if it chance the one of us do fail, The other yet may rise against their force. 
+
+BEDFORD Agreed. I’ll to yond corner.	 
+
+BURGUNDY  And I to this. 
+
+TALBOT And here will Talbot mount, or make his grave. Now, Salisbury, for thee and for the right Of English Henry, shall this night appear How much in duty I am bound to both.	 
+
+<ACTION>Scaling the walls, they cry“Saint George! À Talbot!”</ACTION> 
+
+SENTINEL Arm, arm! The enemy doth make assault. 
+
+<ACTION>The English, pursuing the Sentinels, exit aloft.The French leap o’er the walls in their shirts.</ACTION> 
+
+<ACTION>Enter several ways, Bastard, Alanson, Reignier,half ready, and half unready.</ACTION> 
+
+ALANSON How now, my lords? What, all unready so? 
+
+BASTARD Unready? Ay, and glad we scaped so well. 
+
+REIGNIER ’Twas time, I trow, to wake and leave our beds, Hearing alarums at our chamber doors.	 
+
+ALANSON Of all exploits since first I followed arms Ne’er heard I of a warlike enterprise More venturous or desperate than this. 
+
+BASTARD I think this Talbot be a fiend of hell. 
+
+REIGNIER If not of hell, the heavens sure favor him.	 
+
+ALANSON Here cometh Charles. I marvel how he sped. 
+
+<ACTION>Enter Charles and Joan la Pucelle.</ACTION> 
+
+BASTARD Tut, holy Joan was his defensive guard. 
+
+CHARLES Is this thy cunning, thou deceitful dame? Didst thou at first, to flatter us withal, Make us partakers of a little gain	 That now our loss might be ten times so much? 
+
+PUCELLE Wherefore is Charles impatient with his friend? At all times will you have my power alike? Sleeping or waking, must I still prevail, Or will you blame and lay the fault on me?— Improvident soldiers, had your watch been good, This sudden mischief never could have fall’n. 
+
+CHARLES Duke of Alanson, this was your default, That, being captain of the watch tonight, Did look no better to that weighty charge.	 
+
+ALANSON Had all your quarters been as safely kept As that whereof I had the government, We had not been thus shamefully surprised. 
+
+BASTARD Mine was secure. 
+
+REIGNIER And so was mine, my lord.	 
+
+CHARLES And for myself, most part of all this night Within her quarter and mine own precinct I was employed in passing to and fro About relieving of the sentinels. Then how or which way should they first break in?	 
+
+PUCELLE Question, my lords, no further of the case, How or which way; ’tis sure they found some place But weakly guarded, where the breach was made. And now there rests no other shift but this: To gather our soldiers, scattered and dispersed,	 And lay new platforms to endamage them. 
+
+<ACTION>Alarum. Enter an English Soldier, crying,“À Talbot, À Talbot!” The French fly,leaving their clothes behind.</ACTION> 
+
+SOLDIER I’ll be so bold to take what they have left. The cry of “Talbot” serves me for a sword, For I have loaden me with many spoils, Using no other weapon but his name.	 
+
+<ACTION>He exits.</ACTION> 
+

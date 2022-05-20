@@ -1,0 +1,116 @@
+<ACTION>Enter Tranio as Lucentio and Hortensio as Litio.</ACTION> 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> Is ’t possible, friend Litio, that mistress Bianca Doth fancy any other but Lucentio? I tell you, sir, she bears me fair in hand. 
+
+HORTENSIO ,  <ACTION>as Litio</ACTION> Sir, to satisfy you in what I have said, Stand by, and mark the manner of his teaching.	 
+
+<ACTION>They stand aside.</ACTION> 
+
+<ACTION>Enter Bianca and Lucentio as Cambio.</ACTION> 
+
+LUCENTIO ,  <ACTION>as Cambio</ACTION> Now mistress, profit you in what you read? 
+
+BIANCA What, master, read you? First resolve me that. 
+
+LUCENTIO ,  <ACTION>as Cambio</ACTION> I read that I profess, "The Art to Love." 
+
+BIANCA And may you prove, sir, master of your art. 
+
+LUCENTIO , <ACTION> as Cambio</ACTION> While you, sweet dear, prove mistress of my heart.	 
+
+<ACTION>They move aside and kiss and talk.</ACTION> 
+
+HORTENSIO ,  <ACTION>as Litio</ACTION> Quick proceeders, marry! Now tell me, I pray, You that durst swear that your mistress Bianca Loved none in the world so well as Lucentio. 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> O despiteful love, unconstant womankind! I tell thee, Litio, this is wonderful!	 
+
+HORTENSIO Mistake no more. I am not Litio, Nor a musician as I seem to be, But one that scorn to live in this disguise For such a one as leaves a gentleman And makes a god of such a cullion.	 Know, sir, that I am called Hortensio. 
+
+TRANIO , <ACTION> as Lucentio</ACTION> Signior Hortensio, I have often heard Of your entire affection to Bianca, And since mine eyes are witness of her lightness, I will with you, if you be so contented,	 Forswear Bianca and her love forever. 
+
+HORTENSIO See how they kiss and court! Signior Lucentio, Here is my hand, and here I firmly vow Never to woo her more, but do forswear her As one unworthy all the former favors	 That I have fondly flattered her withal. 
+
+TRANIO , <ACTION> as Lucentio</ACTION> And here I take the like unfeignèd oath, Never to marry with her, though she would entreat. Fie on her, see how beastly she doth court him! 
+
+HORTENSIO Would all the world but he had quite forsworn!	 For me, that I may surely keep mine oath, I will be married to a wealthy widow Ere three days pass, which hath as long loved me As I have loved this proud disdainful haggard. And so farewell, Signior Lucentio.	 Kindness in women, not their beauteous looks, Shall win my love, and so I take my leave, In resolution as I swore before. 
+
+<ACTION>Hortensio exits;</ACTION> 
+
+<ACTION>Bianca and Lucentio come forward.</ACTION> 
+
+TRANIO Mistress Bianca, bless you with such grace As ’longeth to a lover’s blessèd case!	 Nay, I have ta’en you napping, gentle love, And have forsworn you with Hortensio. 
+
+BIANCA Tranio, you jest. But have you both forsworn me? 
+
+TRANIO Mistress, we have. 
+
+LUCENTIO Then we are rid of Litio.	 
+
+TRANIO I’ faith, he’ll have a lusty widow now That shall be wooed and wedded in a day. 
+
+BIANCA God give him joy. 
+
+TRANIO Ay, and he’ll tame her. 
+
+BIANCA  He says so, Tranio?	 
+
+TRANIO Faith, he is gone unto the taming school. 
+
+BIANCA The taming school? What, is there such a place? 
+
+TRANIO Ay, mistress, and Petruchio is the master, That teacheth tricks eleven and twenty long To tame a shrew and charm her chattering tongue.	 
+
+<ACTION>Enter Biondello.</ACTION> 
+
+BIONDELLO O master, master, I have watched so long That I am dog-weary, but at last I spied An ancient angel coming down the hill Will serve the turn. 
+
+TRANIO  What is he, Biondello?	 
+
+BIONDELLO Master, a marcantant, or a pedant, I know not what, but formal in apparel, In gait and countenance surely like a father. 
+
+LUCENTIO  And what of him, Tranio? 
+
+TRANIO If he be credulous, and trust my tale,	 I’ll make him glad to seem Vincentio And give assurance to Baptista Minola As if he were the right Vincentio. Take in your love, and then let me alone. 
+
+<ACTION>Lucentio and Bianca exit.</ACTION> 
+
+<ACTION>Enter a Merchant.</ACTION> 
+
+MERCHANT God save you, sir.	 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> And you, sir. You are welcome. Travel you far on, or are you at the farthest? 
+
+MERCHANT Sir, at the farthest for a week or two, But then up farther, and as far as Rome, And so to Tripoli, if God lend me life.	 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> What countryman, I pray? 
+
+MERCHANT  Of Mantua. 
+
+TRANIO , <ACTION> as Lucentio</ACTION> Of Mantua, sir? Marry, God forbid! And come to Padua, careless of your life? 
+
+MERCHANT My life, sir? How, I pray? For that goes hard.	 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> ’Tis death for anyone in Mantua To come to Padua. Know you not the cause? Your ships are stayed at Venice, and the Duke, For private quarrel ’twixt your duke and him, Hath published and proclaimed it openly.	 ’Tis marvel, but that you are but newly come, You might have heard it else proclaimed about. 
+
+MERCHANT Alas, sir, it is worse for me than so, For I have bills for money by exchange From Florence, and must here deliver them.	 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> Well, sir, to do you courtesy, This will I do, and this I will advise you. First tell me, have you ever been at Pisa? 
+
+MERCHANT Ay, sir, in Pisa have I often been, Pisa renownèd for grave citizens.	 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> Among them know you one Vincentio? 
+
+MERCHANT I know him not, but I have heard of him: A merchant of incomparable wealth. 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> He is my father, sir, and sooth to say, In count’nance somewhat doth resemble you.	 
+
+BIONDELLO ,  <ACTION>aside</ACTION> As much as an apple doth an oyster, and all one. 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> To save your life in this extremity, This favor will I do you for his sake (And think it not the worst of all your fortunes	 That you are like to Sir Vincentio): His name and credit shall you undertake, And in my house you shall be friendly lodged. Look that you take upon you as you should. You understand me, sir. So shall you stay	 Till you have done your business in the city. If this be court’sy, sir, accept of it. 
+
+MERCHANT O sir, I do, and will repute you ever The patron of my life and liberty. 
+
+TRANIO ,  <ACTION>as Lucentio</ACTION> Then go with me, to make the matter good.	 This, by the way, I let you understand: My father is here looked for every day To pass assurance of a dower in marriage ’Twixt me and one Baptista’s daughter here. In all these circumstances I’ll instruct you.	 Go with me to clothe you as becomes you. 
+
+<ACTION>They exit.</ACTION> 
+

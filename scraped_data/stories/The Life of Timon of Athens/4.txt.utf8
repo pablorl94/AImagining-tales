@@ -1,0 +1,50 @@
+<ACTION>Enter Flaminius waiting to speak with Lucullus,from his master.</ACTION> 
+
+<ACTION>Enter a Servant to him.</ACTION> 
+
+SERVANT I have told my lord of you. He is coming down to you. 
+
+FLAMINIUS I thank you, sir. 
+
+<ACTION>Enter Lucullus.</ACTION> 
+
+SERVANT  Here’s my lord. 
+
+LUCULLUS ,  <ACTION>aside</ACTION> One of Lord Timon’s men? A gift, I	 warrant. Why, this hits right. I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir. <ACTION>(To Servant.)</ACTION> Fill me some wine.	 <ACTION>(Servant exits.)</ACTION> And how does that honorable, complete, free-hearted	 gentleman of Athens, thy very bountiful good lord and master? 
+
+FLAMINIUS  His health is well, sir. 
+
+LUCULLUS I am right glad that his health is well, sir. And what hast thou there under thy cloak, pretty	 Flaminius? 
+
+FLAMINIUS Faith, nothing but an empty box, sir, which in my lord’s behalf I come to entreat your Honor to supply; who, having great and instant occasion to use fifty talents, hath sent to your Lordship to	 furnish him, nothing doubting your present assistance therein. 
+
+LUCULLUS La, la, la, la. “Nothing doubting” says he? Alas, good lord! A noble gentleman ’tis, if he would not keep so good a house. Many a time and often I	 ha’ dined with him and told him on ’t, and come again to supper to him of purpose to have him spend less, and yet he would embrace no counsel, take no warning by my coming. Every man has his fault, and honesty is his. I ha’ told him on ’t, but I	 could ne’er get him from ’t. 
+
+<ACTION>Enter Servant with wine.</ACTION> 
+
+SERVANT Please your Lordship, here is the wine. 
+
+LUCULLUS Flaminius, I have noted thee always wise. Here’s to thee. 
+
+<ACTION>He drinks.</ACTION> 
+
+FLAMINIUS Your Lordship speaks your pleasure.	 
+
+LUCULLUS I have observed thee always for a towardly prompt spirit—give thee thy due—and one that knows what belongs to reason and canst use the time well, if the time use thee well. Good parts in thee.—Get you gone, sirrah.	  
+
+<ACTION>Servant exits.</ACTION> 
+
+Draw nearer, honest Flaminius. Thy lord’s a bountiful gentleman, but thou art wise and thou know’st well enough, although thou com’st to me, that this is no time to lend money, especially upon bare friendship, without security. Here’s three solidares	 for thee.  <ACTION>(Gives him money.)</ACTION> Good boy, wink at me, and say thou saw’st me not. Fare thee well. 
+
+FLAMINIUS Is ’t possible the world should so much differ, And we alive that lived? Fly, damnèd baseness,	 To him that worships thee! 
+
+<ACTION>He throws the money back at Lucullus.</ACTION> 
+
+LUCULLUS Ha! Now I see thou art a fool and fit for thy master.	 
+
+<ACTION>Lucullus exits.</ACTION> 
+
+FLAMINIUS May these add to the number that may scald thee! Let molten coin be thy damnation,	 Thou disease of a friend and not himself! Has friendship such a faint and milky heart It turns in less than two nights? O you gods, I feel my master’s passion. This slave Unto his honor has my lord’s meat in him.	 Why should it thrive and turn to nutriment When he is turned to poison? O, may diseases only work upon ’t, And when he’s sick to death, let not that part of nature	 Which my lord paid for be of any power To expel sickness, but prolong his hour. 
+
+<ACTION>He exits.</ACTION> 
+

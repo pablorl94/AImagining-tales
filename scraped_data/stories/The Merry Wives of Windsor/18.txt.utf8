@@ -1,0 +1,20 @@
+<ACTION>Enter Sir John Falstaff and Mistress Quickly.</ACTION> 
+
+FALSTAFF  Prithee, no more prattling. Go. I’ll hold. This is the third time; I hope good luck lies in odd numbers. Away, go. They say there is divinity in odd numbers, either in nativity, chance, or death. Away.	 
+
+MISTRESS QUICKLY I’ll provide you a chain, and I’ll do what I can to get you a pair of horns. 
+
+FALSTAFF Away, I say! Time wears. Hold up your head, and mince.	 
+
+<ACTION>Mistress Quickly exits.</ACTION> 
+
+<ACTION>Enter Ford disguised as Brook.</ACTION> 
+
+How now, Master Brook! Master Brook, the	 matter will be known tonight or never. Be you in the park about midnight, at Herne’s oak, and you shall see wonders. 
+
+FORD , <ACTION> as Brook</ACTION> Went you not to her yesterday, sir, as you told me you had appointed?	 
+
+FALSTAFF  I went to her, Master Brook, as you see, like a poor old man, but I came from her, Master Brook, like a poor old woman. That same knave Ford, her husband, hath the finest mad devil of jealousy in him, Master Brook, that ever governed	 frenzy. I will tell you, he beat me grievously, in the shape of a woman; for in the shape of man, Master Brook, I fear not Goliath with a weaver’s beam, because I know also life is a shuttle. I am in haste. Go along with me; I’ll tell you all, Master	 Brook. Since I plucked geese, played truant, and whipped top, I knew not what ’twas to be beaten till lately. Follow me. I’ll tell you strange things of this knave Ford, on whom tonight I will be revenged, and I will deliver his wife into your hand.	 Follow. Strange things in hand, Master Brook! Follow. 
+
+<ACTION>They exit.</ACTION> 
+

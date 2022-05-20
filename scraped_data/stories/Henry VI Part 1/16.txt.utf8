@@ -1,0 +1,28 @@
+<ACTION>Enter a Messenger that meets York. Enter Yorkwith Trumpet and many Soldiers.</ACTION> 
+
+YORK Are not the speedy scouts returned again That dogged the mighty army of the Dauphin? 
+
+MESSENGER They are returned, my lord, and give it out That he is marched to Bordeaux with his power To fight with Talbot. As he marched along, By your espials were discoverèd Two mightier troops than that the Dauphin led, Which joined with him and made their march for Bordeaux.	 <ACTION>He exits.</ACTION> 
+
+YORK A plague upon that villain Somerset	 That thus delays my promisèd supply Of horsemen that were levied for this siege! Renownèd Talbot doth expect my aid, And I am louted by a traitor villain And cannot help the noble chevalier.	 God comfort him in this necessity. If he miscarry, farewell wars in France. 
+
+<ACTION>Enter Sir William Lucy.</ACTION> 
+
+LUCY Thou princely leader of our English strength, Never so needful on the earth of France, Spur to the rescue of the noble Talbot,	20 Who now is girdled with a waist of iron And hemmed about with grim destruction. To Bordeaux, warlike duke! To Bordeaux, York! Else farewell Talbot, France, and England’s honor. 
+
+YORK O God, that Somerset, who in proud heart	 Doth stop my cornets, were in Talbot’s place! So should we save a valiant gentleman By forfeiting a traitor and a coward. Mad ire and wrathful fury makes me weep That thus we die while remiss traitors sleep.	 
+
+LUCY O, send some succor to the distressed lord! 
+
+YORK He dies, we lose; I break my warlike word; We mourn, France smiles; we lose, they daily get, All long of this vile traitor Somerset. 
+
+LUCY Then God take mercy on brave Talbot’s soul,	 And on his son, young John, who two hours since I met in travel toward his warlike father. This seven years did not Talbot see his son, And now they meet where both their lives are done. 
+
+YORK Alas, what joy shall noble Talbot have	 To bid his young son welcome to his grave? Away! Vexation almost stops my breath, That sundered friends greet in the hour of death. Lucy, farewell. No more my fortune can But curse the cause I cannot aid the man. Maine, Blois, Poictiers, and Tours are won away, Long all of Somerset and his delay. 
+
+<ACTION>York and his Soldiers exit.</ACTION> 
+
+LUCY Thus while the vulture of sedition Feeds in the bosom of such great commanders, Sleeping neglection doth betray to loss	 The conquest of our scarce-cold conqueror, That ever-living man of memory, Henry the Fifth. Whiles they each other cross, Lives, honors, lands, and all hurry to loss. 
+
+<ACTION>He exits.</ACTION> 
+

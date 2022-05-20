@@ -1,0 +1,58 @@
+&&& 
+
+Bibliography 
+
+No writer creates from scratch -- we all engage in what Isaac Newton called "standing on the shoulders of giants." We borrow, plunder and remix the art and culture created by those around us and by our literary forebears. 
+
+If you liked this book and want to learn more, there are plenty of sources to turn to, online and at your local library or bookstore. 
+
+Hacking is a great subject. All science relies on telling other people what you've done so that they can verify it, learn from it, and improve on it, and hacking is all about that process, so there's plenty published on the subject. 
+
+Start with Andrew "Bunnie" Huang's "Hacking the Xbox," (No Starch Press, 2003) a wonderful book that tells the story of how Bunnie, then a student at MIT, reverse-engineered the Xbox's anti-tampering mechanisms and opened the way for all the subsequent cool hacks for the platform. In telling the story, Bunnie has also created a kind of Bible for reverse engineering and hardware hacking. 
+
+Bruce Schneier's "Secrets and Lies" (Wiley, 2000) and "Beyond Fear" (Copernicus, 2003) are the definitive lay-person's texts on understanding security and thinking critically about it, while his "Applied Cryptography" (Wiley, 1995) remains the authoritative source for understanding crypto. Bruce maintains an excellent blog and mailing list at schneier.com/blog. Crypto and security are the realm of the talented amateur, and the "cypherpunk" movement is full of kids, home-makers, parents, lawyers, and every other stripe of person, hammering away on security protocols and ciphers. 
+
+There are several great magazines devoted to this subject, but the two best ones are 2600: The Hacker Quarterly, which is full of pseudonymous, boasting accounts of hacks accomplished, and O'Reilly's MAKE magazine, which features solid HOWTOs for making your own hardware projects at home. 
+
+The online world overflows with material on this subject, of course. Ed Felten and Alex J Halderman's Freedom to Tinker (www.freedom-to-tinker.com) is a blog maintained by two fantastic Princeton engineering profs who write lucidly about security, wiretapping, anti-copying technology and crypto. 
+
+Don't miss Natalie Jeremijenko's "Feral Robotics" at UC San Diego (xdesign.ucsd.edu/feralrobots/). Natalie and her students rewire toy robot dogs from Toys R Us and turn them into bad-ass toxic-waste detectors. They unleash them on public parks where big corporations have dumped their waste and demonstrate in media-friendly fashion how toxic the ground is. 
+
+Like many of the hacks in this book, the tunneling-over-DNS stuff is real. Dan Kaminsky, a tunneling expert of the first water, published details in 2004 (www.doxpara.com/bo2004.ppt). 
+
+The guru of "citizen journalism" is Dan Gillmor, who is presently running Center for Citizen Media at Harvard and UC Berkeley -- he also wrote a hell of a book on the subject, "We, the Media" (O'Reilly, 2004). 
+
+If you want to learn more about hacking arphids, start with Annalee Newitz's Wired Magazine article "The RFID Hacking Underground" (www.wirednews.com/wired/archive/14.05/rfid.html). Adam Greenfield's "Everyware" (New Riders Press, 2006) is a chilling look at the dangers of a world of arphids. 
+
+Neal Gershenfeld's Fab Lab at MIT (fab.cba.mit.edu) is hacking out the world's first real, cheap "3D printers" that can pump out any object you can dream of. This is documented in Gershenfeld's excellent book on the subject, "Fab" (Basic Books, 2005). 
+
+Bruce Sterling's "Shaping Things" (MIT Press, 2005) shows how arphids and fabs could be used to force companies to build products that don't poison the world. 
+
+Speaking of Bruce Sterling, he wrote the first great book on hackers and the law, "The Hacker Crackdown" (Bantam, 1993), which is also the first book published by a major publisher that was released on the Internet at the same time (copies abound; see stuff.mit.edu/hacker/hacker.html for one). It was reading this book that turned me on to the Electronic Frontier Foundation, where I was privileged to work for four years. 
+
+The Electronic Frontier Foundation (www.eff.org) is a charitable membership organization with a student rate. They spend the money that private individuals give them to keep the Internet safe for personal liberty, free speech, due process, and the rest of the Bill of Rights. They're the Internet's most effective freedom fighters, and you can join the struggle just by signing up for their mailing list and writing to your elected officials when they're considering selling you out in the name of fighting terrorism, piracy, the mafia, or whatever bogeyman has caught their attention today. EFF also helps maintain TOR, The Onion Router, which is a real technology you can use *right now* to get out of your government, school or library's censoring firewall (tor.eff.org). 
+
+EFF has a huge, deep website with amazing information aimed at a general audience, as do the American Civil Liberties Union (aclu.org), Public Knowledge (publicknowledge.org), FreeCulture (freeculture.org), Creative Commons (creativecommons.org) -- all of which also are worthy of your support. FreeCulture is an international student movement that actively recruits kids to found their own local chapters at their high schools and universities. It's a great way to get involved and make a difference. 
+
+A lot of websites chronicle the fight for cyberliberties, but few go at it with the verve of Slashdot, "News for Nerds, Stuff That Matters" (slashdot.org). 
+
+And of course, you *have to* visit Wikipedia, the collaborative, net-authored encyclopedia that anyone can edit, with more than 1,000,000 entries in English alone. Wikipedia covers hacking and counterculture in astonishing depth and with amazing, up-to-the-nanosecond currency. One caution: you can't just look at the entries in Wikipedia. It's really important to look at the "History" and "Discussion" links at the top of every Wikipedia page to see how the current version of the truth was arrived at, get an appreciation for the competing points-of-view there, and decide for yourself whom you trust. 
+
+If you want to get at some *real* forbidden knowledge, have a skim around Cryptome (cryptome.org), the world's most amazing archive of secret, suppressed and liberated information. Cryptome's brave publishers collect material that's been pried out of the state by Freedom of Information Act requests or leaked by whistle-blowers and publishes it. 
+
+The best fictional account of the history of crypto is, hands-down, Neal Stephenson's Cryptonomicon (Avon, 2002). Stephenson tells the story of Alan Turing and the Nazi Enigma Machine, turning it into a gripping war-novel that you won't be able to put down. 
+
+The Pirate Party mentioned in Little Brother is real and thriving in Sweden (www.piratpartiet.se), Denmark, the USA and France at the time of this writing (July, 2006). They're a little out-there, but a movement takes all kinds. 
+
+Speaking of out-there, Abbie Hoffman and the Yippies did indeed try to levitate the Pentagon, throw money into the stock exchange, and work with a group called the Up Against the Wall Motherf_____ers. Abbie Hoffman's classic book on ripping off the system, "Steal This Book," is back in print (Four Walls Eight Windows, 2002) and it's also online as a collaborative wiki for people who want to try to update it (stealthiswiki.nine9pages.com). 
+
+Hoffman's autobiography, "Soon to Be a Major Motion Picture" (also in print from Four Walls Eight Windows) is one of my favorite memoirs ever, even if it is highly fictionalized. Hoffman was an incredible storyteller and had great activist instincts. If you want to know how he really lived his life, though, try Larry Sloman's "Steal This Dream" (Doubleday, 1998). 
+
+More counterculture fun: Jack Kerouac's "On the Road" can be had in practically any used bookstore for a buck or two. Allan Ginsberg's "HOWL" is online in many places, and you can hear him read it if you search for the MP3 at archive.org. For bonus points, track down the album "Tenderness Junction" by the Fugs, which includes the audio of Allan Ginsberg and Abbie Hoffman's levitation ceremony at the Pentagon. 
+
+This book couldn't have been written if not for George Orwell's magnificent, world-changing "1984," the best novel ever published on how societies go wrong. I read this book when I was 12 and have read it 30 or 40 times since, and every time, I get something new out of it. Orwell was a master of storytelling and was clearly sick over the totalitarian state that emerged in the Soviet Union. 1984 holds up today as a genuinely frightening work of science fiction, and it is one of the novels that literally changed the world. Today, "Orwellian" is synonymous with a state of ubiquitous surveillance, doublethink, and torture. 
+
+Many novelists have tackled parts of the story in Little Brother. Daniel Pinkwater's towering comic masterpiece, "Alan Mendelsohn: The Boy From Mars" (presently in print as part of the omnibus "5 Novels," Farrar, Straus and Giroux, 1997) is a book that every geek needs to read. If you've ever felt like an outcast for being too smart or weird, READ THIS BOOK. It changed my life. 
+
+On a more contemporary front, there's Scott Westerfeld's "So Yesterday" (Razorbill, 2004), which follows the adventures of cool hunters and counterculture jammers. Scott and his wife Justine Larbalestier were my partial inspiration to write a book for young adults -- as was Kathe Koja. Thanks, guys. 
+

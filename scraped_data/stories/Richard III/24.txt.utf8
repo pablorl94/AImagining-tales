@@ -1,0 +1,144 @@
+<ACTION>Enter to his tent Richard, Ratcliffe, Norfolk, andCatesby, with Soldiers.</ACTION> 
+
+RICHARD What is ’t o’clock? 
+
+CATESBY It’s suppertime, my lord. It’s nine o’clock. 
+
+RICHARD I will not sup tonight. Give me some ink and paper. What, is my beaver easier than it was, And all my armor laid into my tent? 
+
+CATESBY It is, my liege, and all things are in readiness.	 
+
+RICHARD Good Norfolk, hie thee to thy charge. Use careful watch. Choose trusty sentinels. 
+
+NORFOLK I go, my lord. 
+
+RICHARD Stir with the lark tomorrow, gentle Norfolk. 
+
+NORFOLK I warrant you, my lord.	He exits.   
+
+RICHARD  Catesby. 
+
+CATESBY My lord. 
+
+RICHARD Send out a pursuivant-at-arms To Stanley’s regiment. Bid him bring his power Before sunrising, lest his son George fall	 Into the blind cave of eternal night.  
+
+<ACTION>Catesby exits.</ACTION> 
+
+<ACTION>To Soldiers.</ACTION> Fill me a bowl of wine. Give me a watch. Saddle white Surrey for the field tomorrow. Look that my staves be sound and not too heavy.—	 Ratcliffe. 
+
+RATCLIFFE   My lord. 
+
+RICHARD Sawst thou the melancholy Lord Northumberland? 
+
+RATCLIFFE Thomas the Earl of Surrey and himself, Much about cockshut time, from troop to troop	 Went through the army cheering up the soldiers. 
+
+RICHARD So, I am satisfied. Give me a bowl of wine. I have not that alacrity of spirit Nor cheer of mind that I was wont to have. 
+
+<ACTION>Wine is brought.</ACTION> 
+
+Set it down. Is ink and paper ready? 
+
+RATCLIFFE It is, my lord. 
+
+RICHARD   Bid my guard watch. Leave me. Ratcliffe, about the mid of night come to my tent And help to arm me. Leave me, I say. 
+
+<ACTION>Ratcliffe exits. Richard sleeps in his tent,which is guarded by Soldiers.</ACTION> 
+
+<ACTION>Enter Stanley, Earl of Derby to Richmond in his tent.</ACTION> 
+
+STANLEY Fortune and victory sit on thy helm!	 
+
+RICHMOND All comfort that the dark night can afford Be to thy person, noble father-in-law. Tell me, how fares our loving mother? 
+
+STANLEY I, by attorney, bless thee from thy mother, Who prays continually for Richmond’s good. So much for that. The silent hours steal on, And flaky darkness breaks within the east. In brief, for so the season bids us be, Prepare thy battle early in the morning, And put thy fortune to the arbitrament	 Of bloody strokes and mortal-staring war. I, as I may—that which I would I cannot— With best advantage will deceive the time And aid thee in this doubtful shock of arms. But on thy side I may not be too forward,	 Lest, being seen, thy brother, tender George, Be executed in his father’s sight. Farewell. The leisure and the fearful time Cuts off the ceremonious vows of love And ample interchange of sweet discourse, Which so-long-sundered friends should dwell upon. God give us leisure for these rites of love! Once more, adieu. Be valiant and speed well. 
+
+RICHMOND Good lords, conduct him to his regiment. I’ll strive with troubled thoughts to take a nap,	 Lest leaden slumber peise me down tomorrow When I should mount with wings of victory. Once more, good night, kind lords and gentlemen. 
+
+<ACTION>All but Richmond leave his tent and exit.Richmond kneels.</ACTION> 
+
+O Thou, whose captain I account myself, Look on my forces with a gracious eye.	 Put in their hands Thy bruising irons of wrath, That they may crush down with a heavy fall The usurping helmets of our adversaries. Make us Thy ministers of chastisement, That we may praise Thee in the victory.	 To Thee I do commend my watchful soul, Ere I let fall the windows of mine eyes. Sleeping and waking, O, defend me still!  
+
+<ACTION>Sleeps.</ACTION> 
+
+<ACTION>Enter the Ghost of young Prince Edward, son to Harrythe Sixth.</ACTION> 
+
+GHOST OF EDWARD , <ACTION> (to Richard)</ACTION> Let me sit heavy on thy soul tomorrow. Think how thou stabbed’st me in my prime of	 youth At Tewkesbury. Despair therefore, and die! <ACTION>(To Richmond.)</ACTION> Be cheerful, Richmond, for the wrongèd souls Of butchered princes fight in thy behalf.	 King Henry’s issue, Richmond, comforts thee. <ACTION>He exits.</ACTION> 
+
+<ACTION>Enter the Ghost of Henry the Sixth.</ACTION> 
+
+GHOST OF HENRY ,  <ACTION>(to Richard)</ACTION> When I was mortal, my anointed body By thee was punchèd full of deadly holes. Think on the Tower and me. Despair and die! Harry the Sixth bids thee despair and die. <ACTION>(To Richmond.) </ACTION> Virtuous and holy, be thou conqueror. Harry, that prophesied thou shouldst be king, Doth comfort thee in thy sleep. Live and flourish. <ACTION>He exits.</ACTION> 
+
+<ACTION>Enter the Ghost of Clarence.</ACTION> 
+
+GHOST OF CLARENCE ,  <ACTION>(to Richard)</ACTION> Let me sit heavy in thy soul tomorrow, I, that was washed to death with fulsome wine,	 Poor Clarence, by thy guile betrayed to death. Tomorrow in the battle think on me, And fall thy edgeless sword. Despair and die! <ACTION>(To Richmond.)</ACTION> Thou offspring of the house of Lancaster,	 The wrongèd heirs of York do pray for thee. Good angels guard thy battle. Live and flourish. <ACTION>He exits.</ACTION> 
+
+<ACTION>Enter the Ghosts of Rivers, Grey, and Vaughan.</ACTION> 
+
+GHOST OF RIVERS ,  <ACTION>(to Richard)</ACTION> Let me sit heavy in thy soul tomorrow, Rivers, that died at Pomfret. Despair and die! GHOST OF GREY ,  <ACTION>(to Richard)</ACTION> Think upon Grey, and let thy soul despair!	 GHOST OF VAUGHAN , <ACTION> (to Richard)</ACTION> Think upon Vaughan, and with guilty fear Let fall thy lance. Despair and die! ALL ,  <ACTION>(to Richmond)</ACTION> Awake, and think our wrongs in Richard’s bosom Will conquer him. Awake, and win the day. <ACTION>They exit.</ACTION> 
+
+<ACTION>Enter the Ghosts of the two young Princes.</ACTION> 
+
+GHOSTS OF PRINCES , <ACTION> (to Richard)</ACTION> Dream on thy cousins smothered in the Tower.	 Let us be lead within thy bosom, Richard, And weigh thee down to ruin, shame, and death. Thy nephews’ souls bid thee despair and die. <ACTION>(To Richmond.) </ACTION> Sleep, Richmond, sleep in peace and wake in joy.	 Good angels guard thee from the boar’s annoy. Live, and beget a happy race of kings. Edward’s unhappy sons do bid thee flourish. <ACTION>They exit.</ACTION> 
+
+<ACTION>Enter the Ghost of Hastings.</ACTION> 
+
+GHOST OF HASTINGS ,  <ACTION>(to Richard)</ACTION> Bloody and guilty, guiltily awake, And in a bloody battle end thy days.	 Think on Lord Hastings. Despair and die! <ACTION>(To Richmond.) </ACTION> Quiet, untroubled soul, awake, awake. Arm, fight, and conquer for fair England’s sake. <ACTION>He exits.</ACTION> 
+
+<ACTION>Enter the Ghost of Lady Anne his wife.</ACTION> 
+
+GHOST OF ANNE ,  <ACTION>(to Richard)</ACTION> Richard, thy wife, that wretched Anne thy wife, That never slept a quiet hour with thee,	 Now fills thy sleep with perturbations. Tomorrow, in the battle, think on me, And fall thy edgeless sword. Despair and die! <ACTION>(To Richmond.) </ACTION> Thou quiet soul, sleep thou a quiet sleep.	 Dream of success and happy victory. Thy adversary’s wife doth pray for thee.	 <ACTION>She exits.</ACTION> 
+
+<ACTION>Enter the Ghost of Buckingham.</ACTION> 
+
+GHOST OF BUCKINGHAM ,  <ACTION>(to Richard)</ACTION> The first was I that helped thee to the crown; The last was I that felt thy tyranny. O, in the battle think on Buckingham,	 And die in terror of thy guiltiness. Dream on, dream on, of bloody deeds and death. Fainting, despair; despairing, yield thy breath. <ACTION>(To Richmond.)</ACTION> I died for hope ere I could lend thee aid,	185 But cheer thy heart, and be thou not dismayed. God and good angels fight on Richmond’s side, And Richard fall in height of all his pride. <ACTION>He exits.</ACTION> 
+
+<ACTION>Richard starteth up out of a dream.</ACTION> 
+
+RICHARD Give me another horse! Bind up my wounds! Have mercy, Jesu!—Soft, I did but dream. O coward conscience, how dost thou afflict me! The lights burn blue; it is now dead midnight. Cold fearful drops stand on my trembling flesh. What do I fear? Myself? There’s none else by. Richard loves Richard, that is, I am I. Is there a murderer here? No. Yes, I am. Then fly! What, from myself? Great reason why: Lest I revenge. What, myself upon myself? Alack, I love myself. Wherefore? For any good That I myself have done unto myself? O, no. Alas, I rather hate myself For hateful deeds committed by myself. I am a villain. Yet I lie; I am not. Fool, of thyself speak well. Fool, do not flatter. My conscience hath a thousand several tongues,	 And every tongue brings in a several tale, And every tale condemns me for a villain. Perjury, perjury, in the highest degree; Murder, stern murder, in the direst degree; All several sins, all used in each degree,	 Throng to the bar, crying all “Guilty, guilty!” I shall despair. 
+
+There is no creature loves me, And if I die no soul will pity me.And wherefore should they, since that I myself Find in myself no pity to myself? Methought the souls of all that I had murdered Came to my tent, and every one did threat Tomorrow’s vengeance on the head of Richard. 
+
+<ACTION>Enter Ratcliffe.</ACTION> 
+
+RATCLIFFE My lord. 
+
+RICHARD Zounds, who is there? 
+
+RATCLIFFE Ratcliffe, my lord, ’tis I. The early village cock Hath twice done salutation to the morn. Your friends are up and buckle on their armor. 
+
+RICHARD O Ratcliffe, I have dreamed a fearful dream! What think’st thou, will our friends prove all true?	 
+
+RATCLIFFE No doubt, my lord. 
+
+RICHARD O Ratcliffe, I fear, I fear. 
+
+RATCLIFFE Nay, good my lord, be not afraid of shadows. 
+
+RICHARD By the apostle Paul, shadows tonight Have struck more terror to the soul of Richard	 Than can the substance of ten thousand soldiers Armed in proof and led by shallow Richmond. ’Tis not yet near day. Come, go with me. Under our tents I’ll play the eavesdropper To see if any mean to shrink from me.	 
+
+<ACTION>Richard and Ratcliffe exit.</ACTION> 
+
+<ACTION>Enter the Lords to Richmond, in his tent.</ACTION> 
+
+LORDS Good morrow, Richmond. 
+
+RICHMOND Cry mercy, lords and watchful gentlemen, That you have ta’en a tardy sluggard here. 
+
+A LORD How have you slept, my lord? 
+
+RICHMOND The sweetest sleep and fairest-boding dreams That ever entered in a drowsy head Have I since your departure had, my lords. Methought their souls whose bodies Richard murdered Came to my tent and cried on victory.	 I promise you, my soul is very jocund In the remembrance of so fair a dream. How far into the morning is it, lords? 
+
+A LORD  Upon the stroke of four. 
+
+RICHMOND ,  <ACTION>leaving the tent</ACTION> Why, then ’tis time to arm and give direction.	 
+
+<ACTION>His oration to his soldiers.</ACTION> 
+
+More than I have said, loving countrymen, The leisure and enforcement of the time Forbids to dwell upon. Yet remember this: God, and our good cause, fight upon our side. The prayers of holy saints and wrongèd souls,	 Like high-reared bulwarks, stand before our faces. Richard except, those whom we fight against Had rather have us win than him they follow. For what is he they follow? Truly, gentlemen, A bloody tyrant and a homicide;	 One raised in blood, and one in blood established; One that made means to come by what he hath, And slaughtered those that were the means to help him; A base foul stone, made precious by the foil	 Of England’s chair, where he is falsely set; One that hath ever been God’s enemy. Then if you fight against God’s enemy, God will, in justice, ward you as his soldiers. If you do sweat to put a tyrant down,	 You sleep in peace, the tyrant being slain. If you do fight against your country’s foes, Your country’s fat shall pay your pains the hire. If you do fight in safeguard of your wives, Your wives shall welcome home the conquerors. 
+
+If you do free your children from the sword, Your children’s children quits it in your age.Then, in the name of God and all these rights, Advance your standards; draw your willing swords. For me, the ransom of my bold attempt	 Shall be this cold corpse on the Earth’s cold face, But if I thrive, the gain of my attempt The least of you shall share his part thereof. Sound drums and trumpets boldly and cheerfully. God, and Saint George, Richmond, and victory! 
+
+<ACTION>They exit.</ACTION> 
+
+[P.S. In the Folger's edition we're using, Scene 3 continues after this. Click to the next page to keep reading.] 
+
