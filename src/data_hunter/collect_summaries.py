@@ -19,7 +19,7 @@ SHMOOP_URL = 'https://www.shmoop.com'
 SUMMARY_URL = '{url}/summary.html'
 
 # Configuration file with the
-TITLES_LIST_FILE = 'config/titles_list.csv'
+TITLES_LIST_FILE = './config/titles_list.csv'
 
 
 def get_titles_info() -> list:

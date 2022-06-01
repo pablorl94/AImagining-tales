@@ -135,11 +135,11 @@ if __name__ == '__main__':
     # Tokenizer information.
     tokenizer_model = 't5-small'
     tokenizer_prefix = 'summarize: '
-    tokenizer_path = 'models/tokenizer'
+    tokenizer_path = './models/tokenizer'
 
     # Summarizer information.
     summarizer_model = 't5-small'
-    summarizer_path = 'models/summarizer'
+    summarizer_path = './models/summarizer'
 
     main(
         data_path,          # Path of the input data.
