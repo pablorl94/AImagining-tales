@@ -19,7 +19,7 @@ SHMOOP_URL = 'https://www.shmoop.com'
 SUMMARY_URL = '{url}/summary.html'
 
 # Configuration file with the
-TITLES_LIST_FILE = 'config/titles_list.csv'
+TITLES_LIST_FILE = './config/titles_list.csv'
 
 
 def get_titles_info() -> list:
@@ -93,4 +93,11 @@ def scrape_summaries():
 
 
 if __name__ == '__main__':
+
+    # Logging format.
+    LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
+    LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
+    logging.basicConfig(level=logging.INFO, format=LOG_FORMAT, datefmt=LOG_DATEFORMAT)
+
+    # Execute the scraping.
     scrape_summaries()

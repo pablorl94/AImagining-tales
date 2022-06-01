@@ -6,11 +6,9 @@ import pandas as pd
 from tqdm import tqdm
 
 
-LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
-LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
-logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT, datefmt=LOG_DATEFORMAT)
 logger = logging.getLogger(__name__)
 
+# Output paths for the preprocessed datasets.
 STORIES_PATH = './scraped_data/stories'
 SUMMARIES_PATH = './scraped_data/summaries'
 ALIGNMENTS_PATH = './scraped_data/manual_alignments'
@@ -284,6 +282,13 @@ def load_dataframe(filename: str) -> pd.DataFrame:
 
 
 if __name__ == '__main__':
+
+    # Logging format.
+    LOG_FORMAT = '%(asctime)s - %(levelname)s: %(message)s'
+    LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
+    logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT, datefmt=LOG_DATEFORMAT)
+
+    # Execute the main process.
     setup_environment()
     # df = load_dataframe('data.csv')
     get_merged_df()

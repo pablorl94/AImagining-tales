@@ -6,7 +6,7 @@ from transformers import (
     AdamWeightDecay,
     AutoTokenizer,
     DataCollatorForSeq2Seq,
-    TFAutoModelForSeq2SeqLM
+    TFAutoModelForSeq2SeqLM,
 )
 
 
@@ -92,22 +92,20 @@ def save_models(summarizer: 'transformers.SummarizerModel' = None, summarizer_pa
         tokenizer.save_pretrained(tokenizer_path)
 
 
-if __name__ == '__main__':
+def main(data_path: str, text_field: str, summary_field: str,
+         tokenizer_model: str, tokenizer_prefix: str,
+         tokenizer_path: str, summarizer_model: str, summarizer_path: str) -> None:
+    """Execute the main process.
 
-    # Input data.
-    path = 'preprocessed_data/data.csv'
-    text_field = 'story_text'
-    summary_field = 'summary_text'
-
-    tokenizer_model = 't5-small'
-    tokenizer_prefix = 'summarize: '
-    tokenizer_path = 'models/tokenizer'
-
-    summarizer_model = 't5-small'
-    summarizer_path = 'models/summarizer'
+    The main execution process includes:
+      - Loading and preparing the data.
+      - Preprocessing the data, tokenizing the input texts and summaries.
+      - Compiling and training the summarizer model.
+      - Saving the trained tokenizer and summarizer.
+    """
 
     # Load the data from a given path.
-    data = load_dataset(path, summary_field, text_field)
+    data = load_dataset(data_path, summary_field, text_field)
     data = split_train_test_dataset(data)
 
     # Load a pretrained tokenizer, summarizer and optimizer from Hugging Face.
@@ -125,3 +123,31 @@ if __name__ == '__main__':
     # Save the summarizer and the tokenizer.
     save_models(summarizer=summarizer, summarizer_path=summarizer_path,
                 tokenizer=tokenizer, tokenizer_path=tokenizer_path)
+
+
+if __name__ == '__main__':
+
+    # Input data.
+    data_path = './preprocessed_data/data.csv'
+    text_field = 'story_text'
+    summary_field = 'summary_text'
+
+    # Tokenizer information.
+    tokenizer_model = 't5-small'
+    tokenizer_prefix = 'summarize: '
+    tokenizer_path = './models/tokenizer'
+
+    # Summarizer information.
+    summarizer_model = 't5-small'
+    summarizer_path = './models/summarizer'
+
+    main(
+        data_path,          # Path of the input data.
+        text_field,         # Text field name.
+        summary_field,      # Summary field name.
+        tokenizer_model,    # Tokenizer model name.
+        tokenizer_prefix,   # Tokenizer model prefix (if required).
+        tokenizer_path,     # Path to save the Tokenizer model.
+        summarizer_model,   # Summarizer model name.
+        summarizer_path,    # Path to save the Summarizer model.
+    )
