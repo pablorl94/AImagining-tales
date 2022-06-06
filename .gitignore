@@ -4,3 +4,6 @@ __pycache__
 
 # The reference repository.
 shmoop-corpus
+
+# Summarizer models.
+models/
