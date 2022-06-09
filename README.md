@@ -43,6 +43,6 @@ A través de nuestro proyecto queremos poner en valor el inmenso potencial que o
 
 Aún queda por hacer para que AImagining Tales sea una realidad.
 
-Y colorín colorado…
+*Y colorín colorado…*
 
-Si te has quedado con ganas de más te invitamos a consultar el artículo original en Medium.
+Si te has quedado con ganas de más te invitamos a consultar el [artículo original en Medium](https://medium.com/@pablorl94/aimagining-tales-2999904e4c5a).
